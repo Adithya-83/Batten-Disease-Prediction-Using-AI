@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Batten Disease Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  </head>
+  <body>
+    <main class="container">
+      <h1>Batten Disease MRI Prediction Prototype</h1>
+      <p class="disclaimer">
+        This is an AI research prototype and not a medical diagnosis.
+      </p>
+
+      <form method="post" enctype="multipart/form-data">
+        <label for="image">Upload MRI image</label>
+        <input type="file" id="image" name="image" accept=".png,.jpg,.jpeg,.bmp" required>
+        <button type="submit">Predict</button>
+      </form>
+
+      {% if prediction %}
+        <section class="result">
+          <h2>Prediction Result</h2>
+          <p>{{ prediction }}</p>
+          {% if confidence is not none %}
+            <p>Confidence: {{ confidence }}</p>
+          {% endif %}
+        </section>
+      {% endif %}
+    </main>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+  </body>
+</html>

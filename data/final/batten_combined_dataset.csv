@@ -1,0 +1,1765 @@
+Patient_ID,Mutation_ID,Allele,Phenotype,Age_Onset,Country,Disease_Subtype
+Pa-cln1.001,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.002,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.003,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.004,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.005,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.006,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.007,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.008,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.009,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.010,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.011,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.012,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.013,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.014,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.015,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.016,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.017,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.018,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.019,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.020,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.021,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.022,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.023,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.024,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.025,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.026,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.027,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.028,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.029,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.030,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.031,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.032,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.033,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.034,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.035,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.036,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.037,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.038,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.039,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.040,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.041,,null allele,infantile,,Finland,CLN1
+Pa-cln1.041,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.042,,null allele,infantile,,Finland,CLN1
+Pa-cln1.042,cln1.001,p.Arg122Trp,infantile,,Finland,CLN1
+Pa-cln1.043,cln1.001,p.Arg122Trp,infantile,,Germany,CLN1
+Pa-cln1.044,cln1.001,p.Arg122Trp,infantile,,Estonia,CLN1
+Pa-cln1.045,,not identified,infantile,,Germany,CLN1
+Pa-cln1.045,cln1.001,p.Arg122Trp,infantile,,Germany,CLN1
+Pa-cln1.046,,not identified,infantile,,Sweden,CLN1
+Pa-cln1.046,cln1.001,p.Arg122Trp,infantile,,Sweden,CLN1
+Pa-cln1.047,,not identified,infantile,,UK,CLN1
+Pa-cln1.047,cln1.002,p.Lys55*,infantile,,UK,CLN1
+Pa-cln1.048,cln1.009,p.(Arg151*),juvenile,6,England,CLN1
+Pa-cln1.048,cln1.004,(p.Thr75Pro),juvenile,6,England,CLN1
+Pa-cln1.049,cln1.009,p.(Arg151*),juvenile,8,England,CLN1
+Pa-cln1.049,cln1.004,(p.Thr75Pro),juvenile,8,England,CLN1
+Pa-cln1.050,cln1.009,p.(Arg151*),juvenile,7,Canada,CLN1
+Pa-cln1.050,cln1.004,(p.Thr75Pro),juvenile,7,Canada,CLN1
+Pa-cln1.051,cln1.009,p.(Arg151*),juvenile,7,Canada,CLN1
+Pa-cln1.051,cln1.004,(p.Thr75Pro),juvenile,7,Canada,CLN1
+Pa-cln1.052,cln1.009,p.(Arg151*),juvenile,7,Canada,CLN1
+Pa-cln1.052,cln1.004,(p.Thr75Pro),juvenile,7,Canada,CLN1
+Pa-cln1.053,cln1.004,(p.Thr75Pro),juvenile,7,USA,CLN1
+Pa-cln1.053,cln1.004,(p.Thr75Pro),juvenile,8,USA,CLN1
+Pa-cln1.054,cln1.004,(p.Thr75Pro),juvenile,8,USA,CLN1
+Pa-cln1.055,cln1.009,p.(Arg151*),juvenile,10,Scotland,CLN1
+Pa-cln1.055,cln1.004,(p.Thr75Pro),juvenile,10,Scotland,CLN1
+Pa-cln1.056,cln1.009,p.(Arg151*),juvenile,10,Belgium,CLN1
+Pa-cln1.056,cln1.006,p.(Leu219Gln),juvenile,10,Belgium,CLN1
+Pa-cln1.057,cln1.009,p.(Arg151*),juvenile,7,USA,CLN1
+Pa-cln1.057,cln1.005,p.(Asp79Gly),juvenile,7,USA,CLN1
+Pa-cln1.058,cln1.008,p.(Leu10*),juvenile,7,Scotland,CLN1
+Pa-cln1.058,cln1.004,(p.Thr75Pro),juvenile,7,Scotland,CLN1
+Pa-cln1.059,cln1.009,p.(Arg151*),juvenile,7,Scotland,CLN1
+Pa-cln1.059,cln1.004,(p.Thr75Pro),juvenile,7,Scotland,CLN1
+Pa-cln1.060,cln1.008,p.(Leu10*),juvenile,7,Scotland,CLN1
+Pa-cln1.060,cln1.004,(p.Thr75Pro),juvenile,7,Scotland,CLN1
+Pa-cln1.061,cln1.009,p.(Arg151*),juvenile,7,Scotland,CLN1
+Pa-cln1.061,cln1.004,(p.Thr75Pro),juvenile,7,Scotland,CLN1
+Pa-cln1.062,cln1.001,p.Arg122Trp,infantile,0.3,Sweden / Norway,CLN1
+Pa-cln1.062,cln1.017,p.(Val181Met),infantile,0.3,Sweden / Norway,CLN1
+Pa-cln1.063,cln1.009,p.(Arg151*),infantile,0.5,,CLN1
+Pa-cln1.063,cln1.015,p.(Arg164*),infantile,0.5,,CLN1
+Pa-cln1.064,cln1.008,p.(Leu10*),infantile,0.5,Greece / Ireland,CLN1
+Pa-cln1.065,cln1.009,p.(Arg151*),infantile,0.7,Germany,CLN1
+Pa-cln1.066,cln1.009,p.(Arg151*),infantile,0.7,Germany / England/ Poland,CLN1
+Pa-cln1.067,cln1.009,p.(Arg151*),infantile,0.7,Scotland / Ireland / England / Germany / Sweden,CLN1
+Pa-cln1.067,cln1.014,p.(Met133Argfs*4),infantile,0.7,Scotland / Ireland / England / Germany / Sweden,CLN1
+Pa-cln1.068,cln1.009,p.(Arg151*),infantile,1,Sweden / Dutch,CLN1
+Pa-cln1.069,cln1.009,p.(Arg151*),infantile,1,Germany / Wales / USA / Italy,CLN1
+Pa-cln1.070,cln1.009,p.(Arg151*),infantile,1,Germany / Wales / USA / Italy,CLN1
+Pa-cln1.071,cln1.001,p.Arg122Trp,infantile,1,Sweden / Norway,CLN1
+Pa-cln1.071,cln1.012,p.(Gly42Glu),infantile,1,Sweden / Norway,CLN1
+Pa-cln1.072,cln1.009,p.(Arg151*),infantile,1,Ireland / Wales / England / Germany / Norway,CLN1
+Pa-cln1.072,cln1.011,p.(His39Gln),infantile,1,Ireland / Wales / England / Germany / Norway,CLN1
+Pa-cln1.073,cln1.020,c.727-2A>T,infantile,1,Wales / England / Germany / Netherlands,CLN1
+Pa-cln1.073,cln1.009,p.(Arg151*),infantile,1,Wales / England / Germany / Netherlands,CLN1
+Pa-cln1.074,cln1.001,p.Arg122Trp,infantile,,Ireland / England / Sweden,CLN1
+Pa-cln1.074,cln1.018,p.(Glu184Lys),infantile,,Ireland / England / Sweden,CLN1
+Pa-cln1.075,cln1.008,p.(Leu10*),infantile,1.5,Norway / Canada / USA,CLN1
+Pa-cln1.075,cln1.013,p.(Tyr109Asp),infantile,1.5,Norway / Canada / USA,CLN1
+Pa-cln1.076,cln1.009,p.(Arg151*),late infantile,1.5,Scotland / Ireland / England / Germany,CLN1
+Pa-cln1.077,cln1.009,p.(Arg151*),late infantile,1.5,Germany / Ireland,CLN1
+Pa-cln1.077,cln1.017,p.(Val181Met),late infantile,1.5,Germany / Ireland,CLN1
+Pa-cln1.078,,not identified,late infantile,1.5,Morocco,CLN1
+Pa-cln1.078,cln1.015,p.(Arg164*),late infantile,1.5,Morocco,CLN1
+Pa-cln1.079,cln1.010,c.3G>A,late infantile,3.5,Scotland / Germany / Ireland,CLN1
+Pa-cln1.079,cln1.013,p.(Tyr109Asp),late infantile,3.5,Scotland / Germany / Ireland,CLN1
+Pa-cln1.080,cln1.016,p.(Gln177Glu),late infantile,3.5,England,CLN1
+Pa-cln1.080,cln1.023,p.(Trp296*),late infantile,3.5,England,CLN1
+Pa-cln1.081,cln1.010,c.3G>A,juvenile,5,Germany / USA,CLN1
+Pa-cln1.081,cln1.021,p.(Tyr247His),juvenile,5,Germany / USA,CLN1
+Pa-cln1.082,cln1.009,p.(Arg151*),juvenile,5,Germany,CLN1
+Pa-cln1.082,cln1.022,p.(Gly250Val),juvenile,5,Germany,CLN1
+Pa-cln1.083,cln1.009,p.(Arg151*),juvenile,5,France Canada / Ireland,CLN1
+Pa-cln1.083,cln1.004,(p.Thr75Pro),juvenile,5,France Canada / Ireland,CLN1
+Pa-cln1.084,cln1.009,p.(Arg151*),juvenile,6,Norway / Germany / Ireland / England,CLN1
+Pa-cln1.084,cln1.004,(p.Thr75Pro),juvenile,6,Norway / Germany / Ireland / England,CLN1
+Pa-cln1.085,cln1.009,p.(Arg151*),juvenile,6,Scotland / Ireland / England / France / France Canada,CLN1
+Pa-cln1.085,cln1.004,(p.Thr75Pro),juvenile,6,Scotland / Ireland / England / France / France Canada,CLN1
+Pa-cln1.086,cln1.009,p.(Arg151*),juvenile,7,Scotland / Ireland / Germany / Hungary,CLN1
+Pa-cln1.086,cln1.004,(p.Thr75Pro),juvenile,7,Scotland / Ireland / Germany / Hungary,CLN1
+Pa-cln1.087,cln1.004,(p.Thr75Pro),juvenile,7,Germany / Ireland,CLN1
+Pa-cln1.087,cln1.017,p.(Val181Met),juvenile,7,Germany / Ireland,CLN1
+Pa-cln1.088,cln1.004,(p.Thr75Pro),juvenile,7,,CLN1
+Pa-cln1.088,cln1.019,p.(Tyr215Serfs*5),juvenile,7,,CLN1
+Pa-cln1.089,cln1.009,p.(Arg151*),juvenile,7.5,England / Hispanic,CLN1
+Pa-cln1.089,cln1.005,p.(Asp79Gly),juvenile,7.5,England / Hispanic,CLN1
+Pa-cln1.090,cln1.004,(p.Thr75Pro),juvenile,7.5,Scotland,CLN1
+Pa-cln1.091,cln1.009,p.(Arg151*),infantile,,Scotland,CLN1
+Pa-cln1.092,cln1.009,p.(Arg151*),infantile,,Scotland,CLN1
+Pa-cln1.092,cln1.002,p.Lys55*,infantile,,Scotland,CLN1
+Pa-cln1.093,cln1.009,p.(Arg151*),infantile,,Scotland,CLN1
+Pa-cln1.093,cln1.008,p.(Leu10*),infantile,,Scotland,CLN1
+Pa-cln1.094,cln1.008,p.(Leu10*),infantile,,Scotland,CLN1
+Pa-cln1.095,cln1.007,p.(Met57Asnfs*45),infantile,1,Italy,CLN1
+Pa-cln1.096,cln1.007,p.(Met57Asnfs*45),infantile,1.5,Turkey,CLN1
+Pa-cln1.097,cln1.009,p.(Arg151*),infantile,1,England,CLN1
+Pa-cln1.097,cln1.033,p.Glu59Argfs*12,infantile,1,England,CLN1
+Pa-cln1.098,cln1.030,c.125-2A>G,infantile,1,Turkey,CLN1
+Pa-cln1.099,,not identified,infantile,0.8,France,CLN1
+Pa-cln1.099,cln1.036,p.(Gln259Thrfs*36),infantile,0.8,France,CLN1
+Pa-cln1.100,cln1.031,p.(Cys46dup),infantile,0.7,,CLN1
+Pa-cln1.100,cln1.031,p.(Cys46dup),,,,CLN1
+Pa-cln1.101,cln1.018,p.(Glu184Lys),infantile,1,Turkey,CLN1
+Pa-cln1.101,cln1.018,p.(Glu184Lys),,,,CLN1
+Pa-cln1.102,cln1.009,p.(Arg151*),infantile,2.2,Austria,CLN1
+Pa-cln1.102,cln1.009,p.(Arg151*),,,,CLN1
+Pa-cln1.103,cln1.009,p.(Arg151*),infantile,,USA,CLN1
+Pa-cln1.103,cln1.009,p.(Arg151*),,,,CLN1
+Pa-cln1.104,cln1.009,p.(Arg151*),infantile,1,England,CLN1
+Pa-cln1.104,cln1.009,p.(Arg151*),,,,CLN1
+Pa-cln1.105,cln1.035,c.628-1G>T,,,,CLN1
+Pa-cln1.105,cln1.027,p.(Phe85del),infantile,1.5,England / Ireland / Germany,CLN1
+Pa-cln1.106,,not identified,infantile,,Japan,CLN1
+Pa-cln1.106,cln1.034,p.(Cys152*),infantile,,Japan,CLN1
+Pa-cln1.107,cln1.009,p.(Arg151*),infantile,1,,CLN1
+Pa-cln1.108,cln1.009,p.(Arg151*),infantile,1,Ireland / Norway,CLN1
+Pa-cln1.108,cln1.028,p.(Gly118Asp),infantile,1,Ireland / Norway,CLN1
+Pa-cln1.109,cln1.015,p.(Arg164*),infantile,1.25,,CLN1
+Pa-cln1.109,cln1.029,p.(Gln291*),infantile,1.25,,CLN1
+Pa-cln1.110,cln1.009,p.(Arg151*),infantile,1.5,Sweden / Germany,CLN1
+Pa-cln1.110,cln1.007,p.(Met57Asnfs*45),infantile,1.5,Sweden / Germany,CLN1
+Pa-cln1.111,cln1.016,p.(Gln177Glu),late infantile,3,Germany,CLN1
+Pa-cln1.111,cln1.027,p.(Phe85del),late infantile,3,Germany,CLN1
+Pa-cln1.112,cln1.009,p.(Arg151*),late infantile,3.2,,CLN1
+Pa-cln1.112,cln1.016,p.(Gln177Glu),late infantile,3.2,,CLN1
+Pa-cln1.113,cln1.004,(p.Thr75Pro),juvenile,5,Germany / Ireland / Scotland / British,CLN1
+Pa-cln1.113,cln1.017,p.(Val181Met),juvenile,5,Germany / Ireland / Scotland / British,CLN1
+Pa-cln1.114,cln1.004,(p.Thr75Pro),juvenile,8,Ireland / Germany / Wales / Scotland / British,CLN1
+Pa-cln1.115,cln1.009,p.(Arg151*),adult,31,France,CLN1
+Pa-cln1.115,cln1.044,p.(Gly108Arg),adult,31,France,CLN1
+Pa-cln1.116,cln1.009,p.(Arg151*),adult,38,,CLN1
+Pa-cln1.116,cln1.044,p.(Gly108Arg),adult,38,,CLN1
+Pa-cln1.117,cln1.045,p.Leu222Pro,juvenile,4,Italy,CLN1
+Pa-cln1.118,cln1.017,p.(Val181Met),infantile,0.7,Portugal,CLN1
+Pa-cln1.119,cln1.049,c.125-15T>G,late infantile,2,Italy,CLN1
+Pa-cln1.120,cln1.049,c.125-15T>G,late infantile,2.5,Italy,CLN1
+Pa-cln1.121,cln1.053,c.124+1G>A,infantile,<1,China,CLN1
+Pa-cln1.121,cln1.018,p.(Glu184Lys),infantile,<1,China,CLN1
+Pa-cln1.122,cln1.052,p.(Gln91Pro),infantile,<1,China,CLN1
+Pa-cln1.123,cln1.009,p.(Arg151*),adult,24,England,CLN1
+Pa-cln1.123,cln1.050,p.(Cys45Tyr),adult,24,England,CLN1
+Pa-cln1.124,cln1.057,p.(Trp38Cys),,,Turkey,CLN1
+Pa-cln1.125,cln1.045,p.Leu222Pro,late infantile,2,Italy,CLN1
+Pa-cln1.126,cln1.045,p.Leu222Pro,late infantile,3,Italy,CLN1
+Pa-cln1.127,cln1.045,p.Leu222Pro,late infantile,4,Italy,CLN1
+Pa-cln1.128,cln1.055,c.124+1214del3.6kb,late infantile,3,Italy,CLN1
+Pa-cln1.128,cln1.026,p.(Val181Leu),late infantile,3,Italy,CLN1
+Pa-cln1.129,cln1.048,c.363-3T>G,juvenile,6,Brazil,CLN1
+Pa-cln1.129,cln1.009,p.(Arg151*),juvenile,6,Brazil,CLN1
+Pa-cln1.130,cln1.001,p.Arg122Trp,juvenile,6,Finland,CLN1
+Pa-cln1.130,cln1.046,p.(Cys152Tyr),juvenile,6,Finland,CLN1
+Pa-cln1.131,cln1.072,c.536+1G>A,late infantile,3,USA,CLN1
+Pa-cln1.132,cln1.026,p.(Val181Leu),juvenile,3,Spain,CLN1
+Pa-cln1.133,cln1.026,p.(Val181Leu),juvenile,4,Spain,CLN1
+Pa-cln1.134,cln1.026,p.(Val181Leu),juvenile,2,Spain,CLN1
+Pa-cln1.135,cln1.026,p.(Val181Leu),juvenile,4,Spain,CLN1
+Pa-cln1.136,cln1.026,p.(Val181Leu),juvenile,3,Spain,CLN1
+Pa-cln1.137,cln1.026,p.(Val181Leu),juvenile,4,Spain,CLN1
+Pa-cln1.138,cln1.026,p.(Val181Leu),juvenile,2,Spain,CLN1
+Pa-cln1.139,cln1.026,p.(Val181Leu),juvenile,4,Spain,CLN1
+Pa-cln1.140,cln1.026,p.(Val181Leu),juvenile,6,Spain,CLN1
+Pa-cln1.141,cln1.057,p.(Trp38Cys),,,Turkey,CLN1
+Pa-cln1.142,cln1.057,p.(Trp38Cys),,,Turkey,CLN1
+Pa-cln1.143,cln1.061,c.363-4G>A,,3.5,Turkey,CLN1
+Pa-cln1.144,cln1.061,c.363-4G>A,,2,Turkey,CLN1
+Pa-cln1.144,,not identified,,2,Turkey,CLN1
+Pa-cln1.145,cln1.061,c.363-4G>A,,3,Turkey,CLN1
+Pa-cln1.145,,not identified,,3,Turkey,CLN1
+Pa-cln1.146,,not identified,infantile,0.4,Turkey,CLN1
+Pa-cln1.146,cln1.025,p.(Ile134Thr),infantile,0.4,Turkey,CLN1
+Pa-cln1.147,,not identified,infantile,0.4,Turkey,CLN1
+Pa-cln1.147,cln1.025,p.(Ile134Thr),infantile,0.4,Turkey,CLN1
+Pa-cln1.148,cln1.059,p.(Ser138Leu),,,Turkey,CLN1
+Pa-cln1.149,cln1.070,p.(Leu180Profs*9),infantile,0.5,Turkey,CLN1
+Pa-cln1.150,cln1.063,p.(Pro189Arg),,,Turkey,CLN1
+Pa-cln1.151,cln1.017,p.(Val181Met),,,Spain,CLN1
+Pa-cln1.152,cln1.017,p.(Val181Met),,,Spain,CLN1
+Pa-cln1.153,cln1.017,p.(Val181Met),,,Spain,CLN1
+Pa-cln1.154,cln1.001,p.Arg122Trp,,,USA,CLN1
+Pa-cln1.154,cln1.009,p.(Arg151*),,,USA,CLN1
+Pa-cln1.155,cln1.007,p.(Met57Asnfs*45),,,USA,CLN1
+Pa-cln1.156,cln1.007,p.(Met57Asnfs*45),,,USA,CLN1
+Pa-cln1.157,cln1.007,p.(Met57Asnfs*45),,,USA,CLN1
+Pa-cln1.158,cln1.067,c.235-3T>C,juvenile,,Italy,CLN1
+Pa-cln1.158,cln1.017,p.(Val181Met),juvenile,,Italy,CLN1
+Pa-cln1.159,cln1.067,c.235-3T>C,juvenile,,Italy,CLN1
+Pa-cln1.159,cln1.017,p.(Val181Met),juvenile,,Italy,CLN1
+Pa-cln1.160,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.161,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.162,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.162,cln1.016,p.(Gln177Glu),,,UK,CLN1
+Pa-cln1.163,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.163,cln1.008,p.(Leu10*),,,UK,CLN1
+Pa-cln1.164,cln1.064,p.(Trp296Arg),,,UK,CLN1
+Pa-cln1.165,cln1.001,p.Arg122Trp,,,UK,CLN1
+Pa-cln1.165,cln1.017,p.(Val181Met),,,UK,CLN1
+Pa-cln1.166,cln1.065,p.(Trp38*),,,UK,CLN1
+Pa-cln1.167,cln1.031,p.(Cys46dup),,,UK,CLN1
+Pa-cln1.168,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.169,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.170,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.171,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.171,cln1.008,p.(Leu10*),,,UK,CLN1
+Pa-cln1.172,cln1.062,p.(His187Arg),,,UK,CLN1
+Pa-cln1.172,cln1.008,p.(Leu10*),,,UK,CLN1
+Pa-cln1.173,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.173,cln1.008,p.(Leu10*),,,UK,CLN1
+Pa-cln1.174,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.174,cln1.050,p.(Cys45Tyr),,,UK,CLN1
+Pa-cln1.175,cln1.007,p.(Met57Asnfs*45),,,UK,CLN1
+Pa-cln1.176,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.176,cln1.039,p.(Cys96Tyr),,,UK,CLN1
+Pa-cln1.177,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.178,cln1.071,p.(Trp186*),,,UK,CLN1
+Pa-cln1.179,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.180,cln1.017,p.(Val181Met),,,UK,CLN1
+Pa-cln1.181,cln1.074,c.536+2T>C,,,Iran,CLN1
+Pa-cln1.182,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.182,cln1.066,p.(Trp38Cysfs*12),,,UK,CLN1
+Pa-cln1.183,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.183,cln1.013,p.(Tyr109Asp),,,UK,CLN1
+Pa-cln1.184,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.185,cln1.009,p.(Arg151*),,,UK,CLN1
+Pa-cln1.185,cln1.016,p.(Gln177Glu),,,UK,CLN1
+Pa-cln1.186,cln1.009,p.(Arg151*),,,The Netherlands,CLN1
+Pa-cln1.186,cln1.044,p.(Gly108Arg),,,The Netherlands,CLN1
+Pa-cln1.187,cln1.009,p.(Arg151*),,,The Netherlands,CLN1
+Pa-cln1.188,cln1.009,p.(Arg151*),,,Finland,CLN1
+Pa-cln1.189,cln1.009,p.(Arg151*),,,,CLN1
+Pa-cln1.190,cln1.001,p.Arg122Trp,,,Finland,CLN1
+Pa-cln1.190,cln1.017,p.(Val181Met),,,Finland,CLN1
+Pa-cln1.191,cln1.001,p.Arg122Trp,,,Sweden,CLN1
+Pa-cln1.191,cln1.046,p.(Cys152Tyr),,,Sweden,CLN1
+Pa-cln1.192,cln1.038,p.(Gln91_Cys96delinsPhe),,,Turkey,CLN1
+Pa-cln1.193,cln1.009,p.(Arg151*),,,The Netherlands,CLN1
+Pa-cln1.193,cln1.015,p.(Arg164*),,,The Netherlands,CLN1
+Pa-cln1.194,cln1.009,p.(Arg151*),,,The Netherlands,CLN1
+Pa-cln1.194,cln1.056,p.(Val228Gly),,,The Netherlands,CLN1
+Pa-cln1.195,cln1.001,p.Arg122Trp,,,Finland,CLN1
+Pa-cln1.195,cln1.060,p.(Leu305Pro),,,Finland,CLN1
+Pa-cln1.196,cln1.004,(p.Thr75Pro),,,Canada,CLN1
+Pa-cln1.197,cln1.009,p.(Arg151*),,,Canada,CLN1
+Pa-cln1.197,cln1.008,p.(Leu10*),,,Canada,CLN1
+Pa-cln1.198,cln1.009,p.(Arg151*),,,Canada,CLN1
+Pa-cln1.198,cln1.004,(p.Thr75Pro),,,Canada,CLN1
+Pa-cln1.199,cln1.009,p.(Arg151*),,,Canada,CLN1
+Pa-cln1.199,cln1.017,p.(Val181Met),,,Canada,CLN1
+Pa-cln1.200,cln1.009,p.(Arg151*),,,Canada,CLN1
+Pa-cln1.200,cln1.004,(p.Thr75Pro),,,Canada,CLN1
+Pa-cln1.201,cln1.058,c.627+4A>G,,,Canada,CLN1
+Pa-cln1.201,cln1.025,p.(Ile134Thr),,,Canada,CLN1
+Pa-cln1.202,,not identified,,,Canada,CLN1
+Pa-cln1.202,cln1.025,p.(Ile134Thr),,,Canada,CLN1
+Pa-cln1.203,,not identified,,,Russia,CLN1
+Pa-cln1.203,cln1.007,p.(Met57Asnfs*45),,,Russia,CLN1
+Pa-cln1.204,,not identified,infantile,,Germany,CLN1
+Pa-cln1.204,cln1.027,p.(Phe85del),infantile,,Germany,CLN1
+Pa-cln1.205,,not identified,juvenile,,The Netherlands,CLN1
+Pa-cln1.205,cln1.039,p.(Cys96Tyr),juvenile,,The Netherlands,CLN1
+Pa-cln1.206,,not identified,infantile,,UK,CLN1
+Pa-cln1.206,cln1.040,p.(Lys104*),infantile,,UK,CLN1
+Pa-cln1.207,,not identified,infantile,,The Netherlands,CLN1
+Pa-cln1.207,cln1.041,p.(Gln182*),infantile,,The Netherlands,CLN1
+Pa-cln1.208,,not identified,infantile,,USA,CLN1
+Pa-cln1.208,cln1.037,p.Phe225Ser,infantile,,USA,CLN1
+Pa-cln1.209,cln1.035,c.628-1G>T,infantile,,USA,CLN1
+Pa-cln1.209,,not identified,infantile,,USA,CLN1
+Pa-cln1.210,,Probably not identified,,,The Netherlands,CLN1
+Pa-cln1.210,,not identified,,,The Netherlands,CLN1
+Pa-cln1.211,cln1.003,c.*526_*529delATCA,,,France,CLN1
+Pa-cln1.211,,not identified,,,France,CLN1
+Pa-cln1.212,cln1.047,c.312delA,infantile,,England/ Czech Republic,CLN1
+Pa-cln1.212,cln1.017,p.(Val181Met),infantile,,England/ Czech Republic,CLN1
+Pa-cln1.213,,not identified,infantile,,Russia,CLN1
+Pa-cln1.213,cln1.009,p.(Arg151*),infantile,,Russia,CLN1
+Pa-cln1.214,,not identified,infantile,,The Netherlands,CLN1
+Pa-cln1.214,cln1.009,p.(Arg151*),infantile,,The Netherlands,CLN1
+Pa-cln1.215,,not identified,infantile,,Belgium,CLN1
+Pa-cln1.215,cln1.018,p.(Glu184Lys),infantile,,Belgium,CLN1
+Pa-cln1.216,cln1.009,p.(Arg151*),juvenile,8,UK,CLN1
+Pa-cln1.216,cln1.039,p.(Cys96Tyr),juvenile,8,UK,CLN1
+Pa-cln1.217,cln1.076,p.Glu260Lysfs*35,juvenile,10,USA,CLN1
+Pa-cln1.217,cln1.021,p.(Tyr247His),juvenile,10,USA,CLN1
+Pa-cln1.218,cln1.017,p.(Val181Met),infantile,1.2,Spain,CLN1
+Pa-cln1.219,cln1.017,p.(Val181Met),infantile,1.1,Spain,CLN1
+Pa-cln1.220,cln1.077,p.Glu178Val,infantile,1,Spain,CLN1
+Pa-cln1.220,cln1.078,p.Ser241Leu,infantile,1,Spain,CLN1
+Pa-cln1.221,cln1.004,(p.Thr75Pro),juvenile,9,,CLN1
+Pa-cln1.221,cln1.032,c.234+1G>A,juvenile,9,,CLN1
+Pa-cln1.222,cln1.077,p.(Leu7Hisfs*21),infantile,1.6,Japan,CLN1
+Pa-cln1.223,cln1.070,p.(Leu222Pro) ,juvenile,,Romania,CLN1
+Pa-cln1.224,cln1.017,p.(Val181Met),,,,CLN1
+Pa-cln1.225,cln1.024,p.(Asn110Ser),,,,CLN1
+Pa-cln1.226,cln1.079,p.(Val236Glu),,,,CLN1
+Pa-cln1.227,cln1.080,p.(Cys45Arg),,,,CLN1
+Pa-cln1.228,cln1.081,p.(Pro238Leu),,,,CLN1
+Pa-cln1.229,cln1.081,p.(Pro238Leu),,,,CLN1
+Pa-cln1.230,cln1.082,p.(Glu178Asnfs*13 ),,,,CLN1
+Pa-cln1.230,cln1.071,p.(Trp186*),,,,CLN1
+Pa-cln1.231,cln1.083,c.362+5G>T,Fragility fractures,,,CLN1
+Pa-cln1.231,cln1.084,c.628-1G>T,Fragility fractures,,,CLN1
+Pa-cln1.232,cln1.085,p.(Asp267ThrfsTer5),,,Ethiopia,CLN1
+Pa-cln1.233,cln1.086,p.Gln106Ter,infantile / congenital,,Turkey,CLN1
+Pa-cln1.234,cln1.087,p.(Cys6*),,,Uzbekistan,CLN1
+Pa-cln1.235,cln1.088,p.(Gln97*),,,Egypt,CLN1
+Pa-cln1.236,cln1.089,p.?,,,India,CLN1
+Pa-cln1.237,cln1.090,p.(Trp186Arg),,,Saudi Arabia,CLN1
+Pa-cln1.238,cln1.091,p.(Leu27Serfs*12),,,Iran,CLN1
+Pa-cln1.239,cln1.092,p.(Gln259*),,,Egypt,CLN1
+Pa-cln1.240,cln1.093,p.(Glu286*),,,Egypt,CLN1
+Pa-cln1.241,cln1.094,p.(His289Ilefs*55),,,Turkey,CLN1
+Pa-cln1.242,cln1.081,p.Pro238Leu ,,,India,CLN1
+Pa-cln1.243,cln1.081,p.Pro238Leu ,,,India,CLN1
+Pa-cln1.244,cln1.007,p.(Met57Asnfs*),infantile,1.3,Iran,CLN1
+Pa-cln1.245,cln1.097, p.(Gly73Trp),late infantile,,India,CLN1
+Pa-cln1.246,cln1.098, p.(Ala183Ser),infantile,,India,CLN1
+Pa-cln1.247,cln1.081,p.(Pro238Leu),,,India,CLN1
+Pa-cln1.248,cln1.099,p.(Glu59del),juvenile,8,Japan,CLN1
+Pa-cln1.248,cln1.100,p.(Val175AlafsTer19),juvenile,8,Japan,CLN1
+Pa-cln1.249,cln1.101,p.(Thr94Pro),,,China,CLN1
+Pa-cln1.249,cln1.102,c.124+3del,,,China,CLN1
+Pa-cln1.250,cln1.103,p.(Ile211Valfs*),infantile,1.1,Thailand,CLN1
+Pa-cln1.251,cln1.104,p.(Tyr172Ser),late infantile,3,India,CLN1
+Pa-cln1.252,cln1.009,p.(Arg151*),late infantile,2,India,CLN1
+Pa-cln1.253,,Exon 01 deletion,late infantile,1.6,India,CLN1
+Pa-cln1.254,cln1.081,p.(Pro238Leu),late infantile,2.5,India,CLN1
+Pa-cln1.255,cln1.024,p.(Asn110Ser),late infantile,3,India,CLN1
+Pa-cln1.256,cln1.081,p.(Pro238Leu),late infantile,3.5,India,CLN1
+Pa-cln1.257,cln1.037,p.(Phe225Ser),congenital,0.1,,CLN1
+Pa-cln1.258,cln1.052,p.(Gln91Pro),juvenile,8,,CLN1
+Pa-cln1.258,cln1.105,p.(Glu59Gly),juvenile,8,,CLN1
+,,,,,,CLN1
+Notes,,,,,,CLN1
+Congenital - around birth;  infantile 0.5-1.5 y; late infantile - 2-4 y; juvenile - 5-10 y; adult ,,,,,,CLN1
+"GROD - Granular Osmiophilic Deposits, CL - Curvilinear, RL- Rectilinear, FP - Fingerprint, condensed",,,,,,CLN1
+NA - not available or not applicable,,,,,,CLN1
+Pa-cln2.001,cln2.004,c.509-1G>C,late infantile,,Ireland / Scotland / England,CLN2
+Pa-cln2.001,cln2.001,p.(Arg208*),late infantile,,Ireland / Scotland / England,CLN2
+Pa-cln2.002,cln2.004,c.509-1G>C,late infantile,,USA,CLN2
+Pa-cln2.003,cln2.004,c.509-1G>C,late infantile,,USA,CLN2
+Pa-cln2.004,cln2.001,p.(Arg208*),late infantile,,USA,CLN2
+Pa-cln2.005,cln2.004,c.509-1G>C,late infantile,,USA,CLN2
+Pa-cln2.005,cln2.001,p.(Arg208*),late infantile,,USA,CLN2
+Pa-cln2.006,cln2.004,c.509-1G>C,late infantile,,USA,CLN2
+Pa-cln2.006,cln2.001,p.(Arg208*),late infantile,,USA,CLN2
+Pa-cln2.007,cln2.004,c.509-1G>C,late infantile,,USA,CLN2
+Pa-cln2.007,cln2.001,p.(Arg208*),late infantile,,USA,CLN2
+Pa-cln2.008,cln2.004,c.509-1G>C,late infantile,,USA,CLN2
+Pa-cln2.008,,not identified,late infantile,,USA,CLN2
+Pa-cln2.009,cln2.004,c.509-1G>C,late infantile,,USA,CLN2
+Pa-cln2.009,,not identified,late infantile,,USA,CLN2
+Pa-cln2.010,cln2.004,c.509-1G>C,late infantile,,USA,CLN2
+Pa-cln2.010,,not identified,late infantile,,USA,CLN2
+Pa-cln2.011,cln2.004,c.509-1G>C,late infantile,,USA,CLN2
+Pa-cln2.011,,not identified,late infantile,,USA,CLN2
+Pa-cln2.012,,not identified,late infantile,,USA,CLN2
+Pa-cln2.012,cln2.001,p.(Arg208*),late infantile,,USA,CLN2
+Pa-cln2.013,cln2.010,p.(Gln66*),late infantile,3,Italy,CLN2
+Pa-cln2.014,cln2.004,c.509-1G>C,late infantile,3,Spain / France / England / Ireland / USA,CLN2
+Pa-cln2.014,cln2.011,p.(Gln75=),late infantile,3,Spain / France / England / Ireland / USA,CLN2
+Pa-cln2.015,cln2.004,c.509-1G>C,late infantile,3,Ireland / USA /  Germany,CLN2
+Pa-cln2.015,cln2.012,p.(Gly77Arg),late infantile,3,Ireland / USA /  Germany,CLN2
+Pa-cln2.016,cln2.021,p.(Gly389Glu),late infantile,2.2,,CLN2
+Pa-cln2.017,cln2.021,p.(Gly389Glu),late infantile,3,,CLN2
+Pa-cln2.018,cln2.001,p.(Arg208*),late infantile,3,Germany,CLN2
+Pa-cln2.018,cln2.013,p.(Ile126Argfs*8),late infantile,3,Germany,CLN2
+Pa-cln2.019,cln2.001,p.(Arg208*),late infantile,,,CLN2
+Pa-cln2.019,cln2.013,p.(Ile126Argfs*8),late infantile,,,CLN2
+Pa-cln2.020,cln2.014,p.(Arg127*),late infantile,3,Mexico,CLN2
+Pa-cln2.020,cln2.001,p.(Arg208*),late infantile,3,Mexico,CLN2
+Pa-cln2.021,cln2.007,c.509-1G>A,late infantile,3.5,England / Scotland,CLN2
+Pa-cln2.021,cln2.004,c.509-1G>C,late infantile,3.5,England / Scotland,CLN2
+Pa-cln2.022,cln2.007,c.509-1G>A,late infantile,3,England / The Netherlands,CLN2
+Pa-cln2.022,cln2.004,c.509-1G>C,late infantile,3,England / The Netherlands,CLN2
+Pa-cln2.023,cln2.007,c.509-1G>A,late infantile,3.5,England / Germany,CLN2
+Pa-cln2.023,cln2.022,p.(Gln422His),late infantile,3.5,England / Germany,CLN2
+Pa-cln2.024,cln2.004,c.509-1G>C,late infantile,3,England / Germany,CLN2
+Pa-cln2.025,cln2.004,c.509-1G>C,late infantile,3,England / Ireland,CLN2
+Pa-cln2.026,cln2.004,c.509-1G>C,late infantile,2.5,Sweden / England / Ireland / Scotland / Norway,CLN2
+Pa-cln2.027,cln2.004,c.509-1G>C,late infantile,3.5,Germany,CLN2
+Pa-cln2.028,cln2.004,c.509-1G>C,late infantile,3,Scotland / Ireland,CLN2
+Pa-cln2.029,cln2.004,c.509-1G>C,late infantile,3.3,England-Ireland / England-Sweden,CLN2
+Pa-cln2.030,cln2.004,c.509-1G>C,late infantile,3.5,England-Ireland / Germany-India,CLN2
+Pa-cln2.031,cln2.004,c.509-1G>C,late infantile,3,England,CLN2
+Pa-cln2.031,cln2.001,p.(Arg208*),late infantile,3,England,CLN2
+Pa-cln2.032,cln2.004,c.509-1G>C,late infantile,2,Canada,CLN2
+Pa-cln2.032,cln2.001,p.(Arg208*),late infantile,2,Canada,CLN2
+Pa-cln2.033,cln2.004,c.509-1G>C,late infantile,2,England / Germany,CLN2
+Pa-cln2.033,cln2.001,p.(Arg208*),late infantile,2,England / Germany,CLN2
+Pa-cln2.034,cln2.004,c.509-1G>C,late infantile,2,Germany / Ireland-Scotland,CLN2
+Pa-cln2.034,cln2.001,p.(Arg208*),late infantile,2,Germany / Ireland-Scotland,CLN2
+Pa-cln2.035,cln2.004,c.509-1G>C,late infantile,3,Germany -Czech Republic / Canada-USA,CLN2
+Pa-cln2.035,cln2.001,p.(Arg208*),late infantile,3,Germany -Czech Republic / Canada-USA,CLN2
+Pa-cln2.036,cln2.004,c.509-1G>C,late infantile,2.9,Denmark,CLN2
+Pa-cln2.036,cln2.001,p.(Arg208*),late infantile,2.9,Denmark,CLN2
+Pa-cln2.037,cln2.004,c.509-1G>C,late infantile,3.8,Northern Europe,CLN2
+Pa-cln2.037,cln2.001,p.(Arg208*),late infantile,3.8,Northern Europe,CLN2
+Pa-cln2.038,cln2.004,c.509-1G>C,late infantile,2.3,England / Scotland,CLN2
+Pa-cln2.038,cln2.001,p.(Arg208*),late infantile,2.3,England / Scotland,CLN2
+Pa-cln2.039,cln2.004,c.509-1G>C,late infantile,3,England / Ireland / Scotland,CLN2
+Pa-cln2.039,cln2.001,p.(Arg208*),late infantile,3,England / Ireland / Scotland,CLN2
+Pa-cln2.040,cln2.004,c.509-1G>C,late infantile,3,England / Ireland / USA,CLN2
+Pa-cln2.040,cln2.001,p.(Arg208*),late infantile,3,England / Ireland / USA,CLN2
+Pa-cln2.041,cln2.004,c.509-1G>C,late infantile,,France / Ireland / Germany,CLN2
+Pa-cln2.041,cln2.001,p.(Arg208*),late infantile,,France / Ireland / Germany,CLN2
+Pa-cln2.042,cln2.004,c.509-1G>C,late infantile,3,Ireland Scotland-England,CLN2
+Pa-cln2.042,cln2.001,p.(Arg208*),late infantile,3,Ireland Scotland-England,CLN2
+Pa-cln2.043,cln2.004,c.509-1G>C,late infantile,2,England / Scotland,CLN2
+Pa-cln2.043,cln2.016,c.887-18A>G,late infantile,2,England / Scotland,CLN2
+Pa-cln2.044,cln2.004,c.509-1G>C,late infantile,3,France / Italy,CLN2
+Pa-cln2.044,cln2.017,p.(Ser324Argfs*2),late infantile,3,France / Italy,CLN2
+Pa-cln2.045,cln2.004,c.509-1G>C,late infantile,3,Finland-Sweden-Norway  / England-Scotland,CLN2
+Pa-cln2.045,cln2.018,p.(Glu343Lys),late infantile,3,Finland-Sweden-Norway  / England-Scotland,CLN2
+Pa-cln2.046,cln2.004,c.509-1G>C,late infantile,,,CLN2
+Pa-cln2.046,cln2.003,p.(Cys365Tyr),late infantile,,,CLN2
+Pa-cln2.047,cln2.004,c.509-1G>C,late infantile,,,CLN2
+Pa-cln2.047,cln2.022,p.(Gln422His),late infantile,,,CLN2
+Pa-cln2.048,cln2.004,c.509-1G>C,late infantile,2.8,Denmark,CLN2
+Pa-cln2.048,cln2.022,p.(Gln422His),late infantile,2.8,Denmark,CLN2
+Pa-cln2.049,cln2.004,c.509-1G>C,juvenile,7,France / Germany / Ireland / Scotland / England,CLN2
+Pa-cln2.049,cln2.006,p.(Arg447His) ,juvenile,7,France / Germany / Ireland / Scotland / England,CLN2
+Pa-cln2.050,cln2.004,c.509-1G>C,late infantile,3,Czech Republic / Ukraine / Wales,CLN2
+Pa-cln2.050,cln2.024,p.(Ser475Leu),late infantile,3,Czech Republic / Ukraine / Wales,CLN2
+Pa-cln2.051,cln2.001,p.(Arg208*),late infantile,2.5,England,CLN2
+Pa-cln2.052,cln2.001,p.(Arg208*),late infantile,2.9,Poland / Sweden / France / Bohemia,CLN2
+Pa-cln2.053,cln2.001,p.(Arg208*),late infantile,3,Norway / Germany / Poland,CLN2
+Pa-cln2.054,cln2.001,p.(Arg208*),late infantile,3,Poland,CLN2
+Pa-cln2.055,cln2.001,p.(Arg208*),late infantile,3,Norway / Germany / Poland,CLN2
+Pa-cln2.056,cln2.019,c.1075+2T>G,late infantile,2,Italy,CLN2
+Pa-cln2.056,cln2.001,p.(Arg208*),late infantile,2,Italy,CLN2
+Pa-cln2.057,cln2.001,p.(Arg208*),late infantile,3,England / Germany / Hungary / Poland / Russia,CLN2
+Pa-cln2.057,cln2.020,p.(Val385Asp),late infantile,3,England / Germany / Hungary / Poland / Russia,CLN2
+Pa-cln2.058,cln2.001,p.(Arg208*),late infantile,3,Poland / Germany,CLN2
+Pa-cln2.058,cln2.022,p.(Gln422His,late infantile,3,Poland / Germany,CLN2
+Pa-cln2.059,cln2.001,p.(Arg208*),late infantile,3,Mexico,CLN2
+Pa-cln2.059,cln2.022,p.(Gln422His,late infantile,3,Mexico,CLN2
+Pa-cln2.060,cln2.001,p.(Arg208*),late infantile,2.5,England / Ireland,CLN2
+Pa-cln2.060,cln2.022,p.(Gln422His,late infantile,2.5,England / Ireland,CLN2
+Pa-cln2.061,cln2.001,p.(Arg208*),juvenile,8,Germany / Ireland / Poland / England,CLN2
+Pa-cln2.061,cln2.006,p.(Arg447His),juvenile,8,Germany / Ireland / Poland / England,CLN2
+Pa-cln2.062,cln2.025,c.1552-1G>C,,,,CLN2
+Pa-cln2.062,cln2.001,p.(Arg208*),,,,CLN2
+Pa-cln2.063,,not identified,,,,CLN2
+Pa-cln2.063,cln2.015,p.(Ile287Asn),,,,CLN2
+Pa-cln2.064,cln2.017,p.(Ser324Argfs*2),late infantile,3,Italy,CLN2
+Pa-cln2.064,cln2.017,p.(Ser324Argfs*2)),late infantile,3,Italy,CLN2
+Pa-cln2.065,cln2.018,p.(Glu343Lys),late infantile,3.5,England,CLN2
+Pa-cln2.066,cln2.002,p.(Cys365Arg),late infantile,,,CLN2
+Pa-cln2.066,cln2.026,p.(Gln534Profs*74),late infantile,,,CLN2
+Pa-cln2.067,cln2.003,p.(Cys365Tyr),late infantile,,,CLN2
+Pa-cln2.068,cln2.023,p.(Ala454Glu),late infantile,,,CLN2
+Pa-cln2.068,cln2.003,p.(Cys365Tyr),late infantile,,,CLN2
+Pa-cln2.069,cln2.022,p.(Gln422His,late infantile,2.5,Spain,CLN2
+Pa-cln2.070,cln2.027,p.(Leu560Thrfs*47),late infantile,3,Romania / Canada,CLN2
+Pa-cln2.071,,not identified,late infantile,0.8,,CLN2
+Pa-cln2.072,,not identified,late infantile,,Middle East,CLN2
+Pa-cln2.073,cln2.007,c.509-1G>A,late infantile,3.5,UK / Ireland ,CLN2
+Pa-cln2.073,cln2.004,c.509-1G>C,late infantile,3.5,UK / Ireland ,CLN2
+Pa-cln2.074,cln2.007,c.509-1G>A,juvenile,7,Lebanon,CLN2
+Pa-cln2.074,cln2.122,uncharacterised 5' rearrangement resulting in insertion of intron sequences and frameshift,juvenile,7,Lebanon,CLN2
+Pa-cln2.075,cln2.001,p.(Arg208*),late infantile,2-2.5,USA,CLN2
+Pa-cln2.075,cln2.057,p.(Gly473Arg),late infantile,2-2.5,USA,CLN2
+Pa-cln2.076,cln2.104,c.381-2A>G,late infantile,3,USA,CLN2
+Pa-cln2.076,cln2.001,p.(Arg208*),late infantile,3,USA,CLN2
+Pa-cln2.077,cln2.004,c.509-1G>C,late infantile,4,USA,CLN2
+Pa-cln2.077,cln2.056,p.(Trp460*),late infantile,4,USA,CLN2
+Pa-cln2.078,cln2.004,c.509-1G>C,late infantile,3,USA,CLN2
+Pa-cln2.078,cln2.058,p.(Pro544Ser),late infantile,3,USA,CLN2
+Pa-cln2.079,cln2.004,c.509-1G>C,late infantile,2-2.5,USA,CLN2
+Pa-cln2.079,cln2.054,p.(Gly284Val),late infantile,2-2.5,USA,CLN2
+Pa-cln2.080,cln2.004,c.509-1G>C,late infantile,2,USA,CLN2
+Pa-cln2.080,cln2.051,p.(Leu120Serfs*18),late infantile,2,USA,CLN2
+Pa-cln2.081,cln2.004,c.509-1G>C,late infantile,4,USA,CLN2
+Pa-cln2.081,cln2.052,p.(Arg127Gln),late infantile,4,USA,CLN2
+Pa-cln2.082,cln2.001,p.(Arg208*),late infantile,0.33,Italy,CLN2
+Pa-cln2.083,cln2.004,c.509-1G>C,late infantile,3.5,Europe / USA,CLN2
+Pa-cln2.083,cln2.001,p.(Arg208*),late infantile,3.5,Europe / USA,CLN2
+Pa-cln2.084,cln2.041,p.(Arg206Cys),late infantile,3,Turkey,CLN2
+Pa-cln2.085,cln2.045,p.(Gln509*),late infantile,3.5,Italy,CLN2
+Pa-cln2.086,cln2.001,p.(Arg208*),late infantile,3,Italy,CLN2
+Pa-cln2.086,cln2.045,p.(Gln509*),late infantile,3,Italy,CLN2
+Pa-cln2.087,cln2.001,p.(Arg208*),late infantile,3.5,Italy,CLN2
+Pa-cln2.087,cln2.045,p.(Gln509*),late infantile,3.5,Italy,CLN2
+Pa-cln2.088,cln2.057,p.(Gly473Arg),late infantile,2,China,CLN2
+Pa-cln2.088,cln2.059,p.(Ser62Glyfs*25),late infantile,2,China,CLN2
+Pa-cln2.089,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.089,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.090,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.091,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.092,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.093,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.094,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.095,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.095,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.096,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.096,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.097,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.097,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.098,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.098,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.099,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.099,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.100,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.100,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.101,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.102,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.103,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.103,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.104,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.104,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.105,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.105,cln2.064,p.(Thr353Pro),late infantile,,Germany,CLN2
+Pa-cln2.106,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.106,cln2.064,p.(Thr353Pro),late infantile,,Germany,CLN2
+Pa-cln2.107,cln2.004,c.509-1G>C,late infantile,,Germany,CLN2
+Pa-cln2.107,cln2.022,p.(Gln422His,late infantile,,Germany,CLN2
+Pa-cln2.108,cln2.063,p.(Asn286Ser),late infantile,,Germany,CLN2
+Pa-cln2.109,cln2.063,p.(Asn286Ser),late infantile,,Germany,CLN2
+Pa-cln2.110,cln2.052,p.(Arg127Gln),late infantile,,Germany,CLN2
+Pa-cln2.110,cln2.001,p.(Arg208*),late infantile,,Germany,CLN2
+Pa-cln2.111,cln2.004,c.509-1G>C,late infantile,3,Canada,CLN2
+Pa-cln2.112,cln2.004,c.509-1G>C,late infantile,2.8,Canada,CLN2
+Pa-cln2.113,cln2.004,c.509-1G>C,infantile,0.9,Canada,CLN2
+Pa-cln2.114,cln2.004,c.509-1G>C,late infantile,3,Canada,CLN2
+Pa-cln2.114,cln2.054,p.(Gly284Val),late infantile,3,Canada,CLN2
+Pa-cln2.115,cln2.004,c.509-1G>C,late infantile,2.5,Canada,CLN2
+Pa-cln2.115,cln2.055,p.(Lys428Asn),late infantile,2.5,Canada,CLN2
+Pa-cln2.116,cln2.004,c.509-1G>C,late infantile,3.5,Canada,CLN2
+Pa-cln2.116,cln2.001,p.(Arg208*),late infantile,3.5,Canada,CLN2
+Pa-cln2.117,,not identified,late infantile,2,Canada,CLN2
+Pa-cln2.117,cln2.001,p.(Arg208*),late infantile,2,Canada,CLN2
+Pa-cln2.118,cln2.001,p.(Arg208*),late infantile,2,Canada,CLN2
+Pa-cln2.118,cln2.054,p.(Gly284Val),late infantile,2,Canada,CLN2
+Pa-cln2.119,cln2.001,p.(Arg208*),late infantile,,Canada,CLN2
+Pa-cln2.119,cln2.054,p.(Gly284Val),late infantile,,Canada,CLN2
+Pa-cln2.120,cln2.054,p.(Gly284Val),late infantile,3,Canada,CLN2
+Pa-cln2.121,cln2.054,p.(Gly284Val),late infantile,3,Canada,CLN2
+Pa-cln2.122,,not identified,late infantile,3,Canada,CLN2
+Pa-cln2.122,cln2.054,p.(Gly284Val),late infantile,3,Canada,CLN2
+Pa-cln2.123,cln2.004,c.509-1G>C,late infantile,2.5,Canada,CLN2
+Pa-cln2.123,cln2.054,p.(Gly284Val),late infantile,2.5,Canada,CLN2
+Pa-cln2.124,cln2.054,p.(Gly284Val),infantile,0.1,Canada,CLN2
+Pa-cln2.124,cln2.066,p.(Phe481Cys),infantile,0.1,Canada,CLN2
+Pa-cln2.125,cln2.054,p.(Gly284Val),late infantile,3.5,Canada,CLN2
+Pa-cln2.125,cln2.069,uncharacterised 1 bp deletion ,late infantile,3.5,Canada,CLN2
+Pa-cln2.126,,not identified,late infantile,3,Canada,CLN2
+Pa-cln2.126,cln2.054,p.(Gly284Val),late infantile,3,Canada,CLN2
+Pa-cln2.127,,not identified,late infantile,3,Canada,CLN2
+Pa-cln2.127,cln2.054,p.(Gly284Val),late infantile,3,Canada,CLN2
+Pa-cln2.128,,not identified,late infantile,,Canada,CLN2
+Pa-cln2.128,cln2.067,p.(Val277Met),late infantile,,Canada,CLN2
+Pa-cln2.129,,not identified,late infantile,2,Canada,CLN2
+Pa-cln2.129,cln2.068,p.(Gln278Pro),late infantile,2,Canada,CLN2
+Pa-cln2.130,cln2.025,c.1552-1G>C,late infantile,3,Canada,CLN2
+Pa-cln2.130,,not identified,late infantile,3,Canada,CLN2
+Pa-cln2.131,cln2.001,p.(Arg208*),late infantile,3.5,Russia,CLN2
+Pa-cln2.132,cln2.001,p.(Arg208*),late infantile,2.66,Russia,CLN2
+Pa-cln2.133,cln2.001,p.(Arg208*),late infantile,3,Russia,CLN2
+Pa-cln2.134,cln2.001,p.(Arg208*),late infantile,2.25,,CLN2
+Pa-cln2.134,cln2.065,p.(Gly144Glu),late infantile,2.25,,CLN2
+Pa-cln2.135,cln2.001,p.(Arg208*),late infantile,3,Portugal,CLN2
+Pa-cln2.136,cln2.045,p.(Gln509*),late infantile,4,Oman,CLN2
+Pa-cln2.137,cln2.045,p.(Gln509*),late infantile,3.5,Oman,CLN2
+Pa-cln2.138,cln2.045,p.(Gln509*),late infantile,3,Oman,CLN2
+Pa-cln2.139,cln2.045,p.(Gln509*),late infantile,3.5,Oman,CLN2
+Pa-cln2.140,cln2.045,p.(Gln509*),late infantile,3,Oman,CLN2
+Pa-cln2.141,cln2.082,p.(Ser475Trpfs*13),late infantile,,Newfoundland,CLN2
+Pa-cln2.142,cln2.082,p.(Ser475Trpfs*13),late infantile,,Newfoundland,CLN2
+Pa-cln2.143,cln2.082,p.(Ser475Trpfs*13),late infantile,,Newfoundland,CLN2
+Pa-cln2.144,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.145,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.146,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.147,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.148,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.149,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.150,cln2.004,c.509-1G>C,late infantile,,Newfoundland,CLN2
+Pa-cln2.151,cln2.004,c.509-1G>C,late infantile,,Newfoundland,CLN2
+Pa-cln2.152,cln2.004,c.509-1G>C,late infantile,,Newfoundland,CLN2
+Pa-cln2.153,cln2.004,c.509-1G>C,late infantile,,Newfoundland,CLN2
+Pa-cln2.154,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.154,cln2.083,p.(Leu104*),late infantile,,Newfoundland,CLN2
+Pa-cln2.155,cln2.001,p.(Arg208*),late infantile,,Newfoundland,CLN2
+Pa-cln2.155,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.156,cln2.001,p.(Arg208*),late infantile,,Newfoundland,CLN2
+Pa-cln2.156,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.157,cln2.001,p.(Arg208*),late infantile,,Newfoundland,CLN2
+Pa-cln2.157,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.158,cln2.004,c.509-1G>C,late infantile,,Newfoundland,CLN2
+Pa-cln2.158,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.159,cln2.004,c.509-1G>C,late infantile,,Newfoundland,CLN2
+Pa-cln2.159,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.160,cln2.004,c.509-1G>C,late infantile,,Newfoundland,CLN2
+Pa-cln2.160,cln2.001,p.(Arg208*),late infantile,,Newfoundland,CLN2
+Pa-cln2.161,cln2.004,c.509-1G>C,late infantile,,Newfoundland,CLN2
+Pa-cln2.161,cln2.001,p.(Arg208*),late infantile,,Newfoundland,CLN2
+Pa-cln2.162,,not identified,late infantile,,Newfoundland,CLN2
+Pa-cln2.162,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.163,,not identified,late infantile,,Newfoundland,CLN2
+Pa-cln2.163,cln2.054,p.(Gly284Val),late infantile,,Newfoundland,CLN2
+Pa-cln2.164,cln2.079,c.887-10A>G,juvenile,10,Portugal,CLN2
+Pa-cln2.165,cln2.001,p.(Arg208*),late infantile,3,Czech Republic,CLN2
+Pa-cln2.165,cln2.080,p.(Val480Gly),late infantile,3,Czech Republic,CLN2
+Pa-cln2.469,cln2.085,p.(Glu402*),infantile,0.5,Turkey,CLN2
+Pa-cln2.470,cln2.085,p.(Glu402*),,asymptomatic at 11 months old,Turkey,CLN2
+Pa-cln2.168,cln2.036,p.(Met244Thr),juvenile,6,,CLN2
+Pa-cln2.168,cln2.032,p.(Gly370Trpfs*33),juvenile,6,,CLN2
+Pa-cln2.169,cln2.047,p.(Arg339Trp),juvenile,6,,CLN2
+Pa-cln2.169,cln2.036,p.(Met244Thr),juvenile,6,,CLN2
+Pa-cln2.170,cln2.001,p.(Arg208*),juvenile,,Peru,CLN2
+Pa-cln2.170,cln2.079,c.887-10A>G,juvenile,,Peru,CLN2
+Pa-cln2.171,cln2.001,p.(Arg208*),juvenile,8,Argentina,CLN2
+Pa-cln2.171,cln2.079,c.887-10A>G,juvenile,8,Argentina,CLN2
+Pa-cln2.172,cln2.001,p.(Arg208*),not yet symptomatic,9,Argentina,CLN2
+Pa-cln2.172,cln2.079,c.887-10A>G,not yet symptomatic,9,Argentina,CLN2
+Pa-cln2.173,cln2.071,p.(Val518*),late infantile,3,China,CLN2
+Pa-cln2.174,cln2.006,p.(Arg447His),,unknown,Brazil,CLN2
+Pa-cln2.174,cln2.098,c.1552-1G>A,,unknown,Brazil,CLN2
+Pa-cln2.175,cln2.081,p.(Arg259Valfs*17),late infantile,3,Israel,CLN2
+Pa-cln2.176,cln2.081,p.(Arg259Valfs*17),late infantile,3,Israel,CLN2
+Pa-cln2.177,cln2.095,c.1551+1G>A,late infantile,3.5,China,CLN2
+Pa-cln2.177,cln2.075,p.(Val216Met),late infantile,3.5,China,CLN2
+Pa-cln2.178,cln2.084,c.17+1G>C,,,Spain,CLN2
+Pa-cln2.179,cln2.074,p.(Arg266Gln),,,Spain,CLN2
+Pa-cln2.179,cln2.077,p.(Arg339Gln),,,Spain,CLN2
+Pa-cln2.180,cln2.079,c.887-10A>G,,,Spain,CLN2
+Pa-cln2.180,cln2.113,p.(Ser382Arg),,,Spain,CLN2
+Pa-cln2.181,cln2.096,c.1551+5_1551+6delGTinsTA,,,Portugal,CLN2
+Pa-cln2.182,cln2.096,c.1551+5_1551+6delGTinsTA,,,Portugal,CLN2
+Pa-cln2.182,cln2.001,p.(Arg208*),,,Portugal,CLN2
+Pa-cln2.183,cln2.001,p.(Arg208*),,,Slovakia,CLN2
+Pa-cln2.184,cln2.001,p.(Arg208*),,,Czech Republic,CLN2
+Pa-cln2.184,cln2.087,p.(Tyr79*),,,Czech Republic,CLN2
+Pa-cln2.185,cln2.001,p.(Arg208*),,,Slovakia,CLN2
+Pa-cln2.186,cln2.004,c.509-1G>C,,,Czech Republic,CLN2
+Pa-cln2.186,cln2.024,p.(Ser475Leu),,,Czech Republic,CLN2
+Pa-cln2.187,cln2.001,p.(Arg208*),,,Slovakia,CLN2
+Pa-cln2.188,cln2.001,p.(Arg208*),,,Slovakia,CLN2
+Pa-cln2.189,cln2.001,p.(Arg208*),,,Czech Republic,CLN2
+Pa-cln2.190,cln2.001,p.(Arg208*),,,Czech Republic,CLN2
+Pa-cln2.191,cln2.001,p.(Arg208*),,,Czech Republic,CLN2
+Pa-cln2.192,cln2.001,p.(Arg208*),,,Brazil,CLN2
+Pa-cln2.193,cln2.001,p.(Arg208*),,,Czech Republic,CLN2
+Pa-cln2.194,cln2.001,p.(Arg208*),,,Slovakia,CLN2
+Pa-cln2.194,cln2.088,p.(Trp548Arg),,,Slovakia,CLN2
+Pa-cln2.195,cln2.001,p.(Arg208*),,,Czech Republic,CLN2
+Pa-cln2.196,cln2.001,p.(Arg208*),,,Czech Republic,CLN2
+Pa-cln2.197,cln2.001,p.(Arg208*),,,Hungary,CLN2
+Pa-cln2.197,cln2.024,p.(Ser475Leu),,,Hungary,CLN2
+Pa-cln2.198,cln2.004,c.509-1G>C,,,Slovakia,CLN2
+Pa-cln2.198,cln2.001,p.(Arg208*),,,Slovakia,CLN2
+Pa-cln2.166,cln2.084,c.17+1G>C,late infantile,3,Turkey,CLN2
+Pa-cln2.200,cln2.108,p.(Gln214*),late infantile,,Italy,CLN2
+Pa-cln2.200,cln2.012,p.(Gly77Arg),late infantile,,Italy,CLN2
+Pa-cln2.201,cln2.109,p.(Gln264*),late infantile,,Italy,CLN2
+Pa-cln2.201,cln2.012,p.(Gly77Arg),late infantile,,Italy,CLN2
+Pa-cln2.202,cln2.012,p.(Gly77Arg),late infantile,,Italy,CLN2
+Pa-cln2.202,cln2.111,p.(Leu355Serfs*72),late infantile,,Italy,CLN2
+Pa-cln2.203,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.204,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.205,cln2.001,p.(Arg208*),,,UK,CLN2
+Pa-cln2.206,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.206,cln2.001,p.(Arg208*),,,UK,CLN2
+Pa-cln2.207,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.208,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.209,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.210,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.211,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.212,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.213,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.214,cln2.001,p.(Arg208*),,,UK,CLN2
+Pa-cln2.215,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.216,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.217,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.218,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.219,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.219,cln2.001,p.(Arg208*),,,UK,CLN2
+Pa-cln2.220,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.221,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.222,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.223,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.224,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.225,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.225,cln2.001,p.(Arg208*),,,UK,CLN2
+Pa-cln2.226,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.227,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.228,cln2.107,p.(Tyr209His),,,UK,CLN2
+Pa-cln2.229,cln2.001,p.(Arg208*),,,UK,CLN2
+Pa-cln2.230,cln2.003,p.(Cys365Tyr),,,UK,CLN2
+Pa-cln2.230,cln2.045,p.(Gln509*),,,UK,CLN2
+Pa-cln2.231,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.231,cln2.001,p.(Arg208*),,,UK,CLN2
+Pa-cln2.232,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.232,cln2.102,p.(Leu13Profs*32),,,UK,CLN2
+Pa-cln2.233,cln2.001,p.(Arg208*),,,UK,CLN2
+Pa-cln2.233,cln2.119,p.(Asn504Tyr),,,UK,CLN2
+Pa-cln2.234,cln2.001,p.(Arg208*),,,UK,CLN2
+Pa-cln2.234,cln2.045,p.(Gln509*),,,UK,CLN2
+Pa-cln2.235,cln2.004,c.509-1G>C,,,UK,CLN2
+Pa-cln2.235,cln2.076,c.89+5G>C,,,UK,CLN2
+Pa-cln2.236,cln2.076,c.89+5G>C,,,UK,CLN2
+Pa-cln2.236,cln2.045,p.(Gln509*),,,UK,CLN2
+Pa-cln2.167,cln2.085,p.(Glu402*),,,Turkey,CLN2
+Pa-cln2.379,cln2.086,p.(Gly482Arg),,,Turkey,CLN2
+Pa-cln2.199,cln2.001,p.(Arg208*),,,Turkey,CLN2
+Pa-cln2.237,,not identified,,,Turkey,CLN2
+Pa-cln2.237,cln2.103,p.(Ser62Thr),,,Turkey,CLN2
+Pa-cln2.238,cln2.052,p.(Arg127Gln),,,Turkey,CLN2
+Pa-cln2.239,cln2.052,p.(Arg127Gln),,,Turkey,CLN2
+Pa-cln2.240,cln2.052,p.(Arg127Gln),,,Turkey,CLN2
+Pa-cln2.241,cln2.001,p.(Arg208*),,,Turkey,CLN2
+Pa-cln2.241,cln2.106,p.(His166Glnfs*22),,,Turkey,CLN2
+Pa-cln2.242,,not identified,,,Turkey,CLN2
+Pa-cln2.242,cln2.001,p.(Arg208*),,,Turkey,CLN2
+Pa-cln2.246,cln2.004,c.509-1G>C,,,Serbia,CLN2
+Pa-cln2.247,cln2.004,c.509-1G>C,,,The Netherlands,CLN2
+Pa-cln2.248,cln2.004,c.509-1G>C,,,Sweden,CLN2
+Pa-cln2.249,cln2.004,c.509-1G>C,,,South Africa,CLN2
+Pa-cln2.250,cln2.115,c.1425+1G>C,,,Belgium,CLN2
+Pa-cln2.250,cln2.004,c.509-1G>C,,,Belgium,CLN2
+Pa-cln2.251,cln2.004,c.509-1G>C,,,South Africa / The Netherlands,CLN2
+Pa-cln2.251,cln2.001,p.(Arg208*),,,South Africa / The Netherlands,CLN2
+Pa-cln2.252,cln2.001,p.(Arg208*),,,Sweden,CLN2
+Pa-cln2.252,cln2.024,p.(Ser475Leu),,,Sweden,CLN2
+Pa-cln2.253,cln2.001,p.(Arg208*),,,The Netherlands,CLN2
+Pa-cln2.253,cln2.022,p.(Gln422His,,,The Netherlands,CLN2
+Pa-cln2.243,cln2.001,p.(Arg208*),,,Turkey,CLN2
+Pa-cln2.255,cln2.112,c.1075+2T>C,,,The Netherlands,CLN2
+Pa-cln2.255,cln2.004,c.509-1G>C,,,The Netherlands,CLN2
+Pa-cln2.256,cln2.076,c.89+5G>C,,,UK,CLN2
+Pa-cln2.256,cln2.014,p.(Arg127*),,,UK,CLN2
+Pa-cln2.257,cln2.101,c.18-3C>G,,,UK,CLN2
+Pa-cln2.257,cln2.110,p.(Leu275*),,,UK,CLN2
+Pa-cln2.258,cln2.011,p.(Gln75=),,,Romania,CLN2
+Pa-cln2.258,cln2.027,p.(Leu560Thrfs*47),,,Romania,CLN2
+Pa-cln2.244,cln2.024,p.(Ser475Leu),,3,Turkey,CLN2
+Pa-cln2.260,cln2.001,p.(Arg208*),,,The Netherlands,CLN2
+Pa-cln2.261,cln2.001,p.(Arg208*),,,Hungary,CLN2
+Pa-cln2.262,cln2.004,c.509-1G>C,,,Sweden,CLN2
+Pa-cln2.262,,not identified,,,Sweden,CLN2
+Pa-cln2.263,cln2.105,c.381-1G>C,,,Canada,CLN2
+Pa-cln2.263,cln2.001,p.(Arg208*),,,Canada,CLN2
+Pa-cln2.264,cln2.082,p.(Ser475Trpfs*13),,,USA,CLN2
+Pa-cln2.265,cln2.105,c.381-1G>C,,,Canada,CLN2
+Pa-cln2.266,cln2.105,c.381-1G>C,,,Canada,CLN2
+Pa-cln2.267,cln2.004,c.509-1G>C,,,Canada,CLN2
+Pa-cln2.267,cln2.001,p.(Arg208*),,,Canada,CLN2
+Pa-cln2.268,cln2.004,c.509-1G>C,,,Canada,CLN2
+Pa-cln2.268,cln2.001,p.(Arg208*),,,Canada,CLN2
+Pa-cln2.269,cln2.001,p.(Arg208*),,,Canada,CLN2
+Pa-cln2.270,cln2.105,c.381-1G>C,,,Canada,CLN2
+Pa-cln2.270,cln2.054,p.(Gly284Val),,,Canada,CLN2
+Pa-cln2.271,cln2.037,c.1266+5G>A,,,Canada,CLN2
+Pa-cln2.271,cln2.033,p.(Gln100Arg),,,Canada,CLN2
+Pa-cln2.272,cln2.076,c.89+5G>C,,,USA,CLN2
+Pa-cln2.272,,not identified,,,USA,CLN2
+Pa-cln2.273,cln2.076,c.89+5G>C,,,Russia,CLN2
+Pa-cln2.273,,not identified,,,Russia,CLN2
+Pa-cln2.274,,not identified,,,Russia,CLN2
+Pa-cln2.274,cln2.010,p.(Gln66*),,,Russia,CLN2
+Pa-cln2.275,,not identified,,,The Netherlands,CLN2
+Pa-cln2.275,cln2.011,p.(Gln75=),,,The Netherlands,CLN2
+Pa-cln2.276,,not identified,,,Canada,CLN2
+Pa-cln2.276,cln2.052,p.(Arg127Gln),,,Canada,CLN2
+Pa-cln2.277,cln2.004,c.509-1G>C,,,Ireland,CLN2
+Pa-cln2.277,,not identified,,,Ireland,CLN2
+Pa-cln2.278,,not identified,,,Russia,CLN2
+Pa-cln2.278,cln2.091,p.(Arg206His),,,Russia,CLN2
+Pa-cln2.279,,not identified,,,Russia,CLN2
+Pa-cln2.279,cln2.001,p.(Arg208*),,,Russia,CLN2
+Pa-cln2.280,,not identified,,,USA,CLN2
+Pa-cln2.280,cln2.075,p.(Val216Met),,,USA,CLN2
+Pa-cln2.281,,not identified,,,USA,CLN2
+Pa-cln2.281,cln2.062,p.(Ser238*),,,USA,CLN2
+Pa-cln2.282,,not identified,,,Spain,CLN2
+Pa-cln2.282,cln2.073,p.(Glu329_Asp330delinsAspSer),,,Spain,CLN2
+Pa-cln2.283,,not identified,,,USA,CLN2
+Pa-cln2.283,cln2.008,p.(His298Leufs*3),,,USA,CLN2
+Pa-cln2.284,,not identified,,,Russia,CLN2
+Pa-cln2.284,cln2.093,p.(Asp328del),,,Russia,CLN2
+Pa-cln2.285,,not identified,,,France,CLN2
+Pa-cln2.285,cln2.047,p.(Arg339Trp),,,France,CLN2
+Pa-cln2.286,,not identified,,,Russia,CLN2
+Pa-cln2.286,cln2.047,p.(Arg339Trp),,,Russia,CLN2
+Pa-cln2.287,,not identified,,,USA,CLN2
+Pa-cln2.287,cln2.060,p.(Leu355Pro),,,USA,CLN2
+Pa-cln2.288,,not identified,,,Ireland,CLN2
+Pa-cln2.288,cln2.003,p.(Cys365Tyr),,,Ireland,CLN2
+Pa-cln2.289,,not identified,,,Russia,CLN2
+Pa-cln2.289,cln2.024,p.(Ser475Leu),,,Russia,CLN2
+Pa-cln2.290,,not identified,,,Czech Republic,CLN2
+Pa-cln2.290,cln2.080,p.(Val480Gly),,,Czech Republic,CLN2
+Pa-cln2.291,,not identified,,,Ireland,CLN2
+Pa-cln2.291,cln2.045,p.(Gln509*),,,Ireland,CLN2
+Pa-cln2.292,,not identified,,,France,CLN2
+Pa-cln2.292,cln2.048,p.(Trp548*),,,France,CLN2
+Pa-cln2.293,,not identified,,,Russia,CLN2
+Pa-cln2.293,cln2.027,p.(Leu560Thrfs*47),,,Russia,CLN2
+Pa-cln2.294,,not identified,,,France,CLN2
+Pa-cln2.294,cln2.004,c.509-1G>C,,,France,CLN2
+Pa-cln2.295,,not identified,,,France,CLN2
+Pa-cln2.295,cln2.001,p.(Arg208*),,,France,CLN2
+Pa-cln2.296,,not identified,,,France,CLN2
+Pa-cln2.296,cln2.045,p.(Gln509*),,,France,CLN2
+Pa-cln2.297,,not identified,,,France,CLN2
+Pa-cln2.297,cln2.043,p.(Ser153Pro),,,France,CLN2
+Pa-cln2.298,cln2.044,c.1076-2A>G,,,France,CLN2
+Pa-cln2.298,,not identified,,,France,CLN2
+Pa-cln2.299,,not identified,,,France,CLN2
+Pa-cln2.299,cln2.046,p.(Cys537Trpfs*67),,,France,CLN2
+Pa-cln2.245,,not identified,,,Turkey,CLN2
+Pa-cln2.245,cln2.117,p.(Gly501Alafs*18),,,Turkey,CLN2
+Pa-cln2.301,,not identified,,,Africa,CLN2
+Pa-cln2.301,cln2.049,p.(Pro202Leu),,,Africa,CLN2
+Pa-cln2.302,cln2.004,c.509-1G>C,,,The Netherlands,CLN2
+Pa-cln2.303,cln2.004,c.509-1G>C,,,The Netherlands,CLN2
+Pa-cln2.304,cln2.004,c.509-1G>C,,,The Netherlands,CLN2
+Pa-cln2.305,cln2.004,c.509-1G>C,,,The Netherlands,CLN2
+Pa-cln2.306,,not identified,,,The Netherlands,CLN2
+Pa-cln2.306,cln2.004,c.509-1G>C,,,The Netherlands,CLN2
+Pa-cln2.307,,not identified,,,The Netherlands,CLN2
+Pa-cln2.307,cln2.004,c.509-1G>C,,,The Netherlands,CLN2
+Pa-cln2.308,cln2.075,p.(Val216Met),late infantile,3,China,CLN2
+Pa-cln2.309,cln2.075,p.(Val216Met),late infantile,3.5,China,CLN2
+Pa-cln2.310,cln2.123,c.89+4A>G ,,,Argentina,CLN2
+Pa-cln2.310,cln2.010,p.(Gln66*),,,Argentina,CLN2
+Pa-cln2.311,,not identified,,,Russia,CLN2
+Pa-cln2.311,cln2.092,p.(Met281Ile),,,Russia,CLN2
+Pa-cln2.312,cln2.125,p.(Asp517Hisfs*1),late infantile,3,China,CLN2
+Pa-cln2.312,cln2.124,p.(Glu139Glyfs*1),late infantile,3,China,CLN2
+Pa-cln2.313,cln2.127,c.381-17_381-4del,late infantile,3.5,China,CLN2
+Pa-cln2.313,cln2.126,p.(Gly77*),late infantile,3.5,China,CLN2
+Pa-cln2.314,cln2.001,p.(Arg208*),late infantile,2.5,China,CLN2
+Pa-cln2.314,cln2.108,p.(Gln214*),late infantile,2.5,China,CLN2
+Pa-cln2.315,cln2.108,p.(Gln214*),late infantile,3,China,CLN2
+Pa-cln2.315,cln2.128,p.(Gly217Asp),late infantile,3,China,CLN2
+Pa-cln2.316,,not identified,late infantile,2,China,CLN2
+Pa-cln2.316,cln2.129,p.(Glu59Aspfs*20),late infantile,2,China,CLN2
+Pa-cln2.317,cln2.004,c.509-1G>C,late infantile,,"Ireland, Germany",CLN2
+Pa-cln2.317,cln2.001,p.(Arg208*),late infantile,,"Ireland, Germany",CLN2
+Pa-cln2.318,cln2.004,c.509-1G>C,autosomal recessive spinocerebellar ataxia 7,,The Netherlands,CLN2
+Pa-cln2.318,cln2.130,p.(Val466Gly),autosomal recessive spinocerebellar ataxia 7,,The Netherlands,CLN2
+Pa-cln2.319,cln2.004,c.509-1G>C,autosomal recessive spinocerebellar ataxia 7,,The Netherlands,CLN2
+Pa-cln2.319,cln2.130,p.(Val466Gly),autosomal recessive spinocerebellar ataxia 7,,The Netherlands,CLN2
+Pa-cln2.320,cln2.004,c.509-1G>C,autosomal recessive spinocerebellar ataxia 7,,The Netherlands,CLN2
+Pa-cln2.320,cln2.130,p.(Val466Gly),autosomal recessive spinocerebellar ataxia 7,,The Netherlands,CLN2
+Pa-cln2.321,cln2.004,c.509-1G>C,autosomal recessive spinocerebellar ataxia 7,,The Netherlands,CLN2
+Pa-cln2.321,cln2.130,p.(Val466Gly),autosomal recessive spinocerebellar ataxia 7,,The Netherlands,CLN2
+Pa-cln2.322,cln2.004,c.509-1G>C,autosomal recessive spinocerebellar ataxia 7,,The Netherlands,CLN2
+Pa-cln2.322,cln2.130,p.(Val466Gly),autosomal recessive spinocerebellar ataxia 7,,The Netherlands,CLN2
+Pa-cln2.323,cln2.004,c.509-1G>C,autosomal recessive spinocerebellar ataxia 7,18,The Netherlands,CLN2
+Pa-cln2.323,cln2.130,p.(Val466Gly),autosomal recessive spinocerebellar ataxia 7,18,The Netherlands,CLN2
+Pa-cln2.324,cln2.004,c.509-1G>C,late infantile,3,The Netherlands,CLN2
+Pa-cln2.325,,not identified,late infantile,4.5,The Netherlands,CLN2
+Pa-cln2.326,cln2.004,c.509-1G>C,late infantile,3.5,The Netherlands,CLN2
+Pa-cln2.327,cln2.004,c.509-1G>C,late infantile,3,The Netherlands,CLN2
+Pa-cln2.328,,not identified,late infantile,4,The Netherlands,CLN2
+Pa-cln2.329,cln2.004,c.509-1G>C,infantile,1.5,The Netherlands,CLN2
+Pa-cln2.329,cln2.001,p.(Arg208*),infantile,1.5,The Netherlands,CLN2
+Pa-cln2.330,,not identified,late infantile,4,The Netherlands,CLN2
+Pa-cln2.331,cln2.001,p.(Arg208*),late infantile,4,The Netherlands,CLN2
+Pa-cln2.331,cln2.022,p.(Gln422His,late infantile,4,The Netherlands,CLN2
+Pa-cln2.332,,not identified,late infantile,4,The Netherlands,CLN2
+Pa-cln2.333,cln2.004,c.509-1G>C,late infantile,3,The Netherlands,CLN2
+Pa-cln2.333,cln2.001,p.(Arg208*),late infantile,3,The Netherlands,CLN2
+Pa-cln2.334,cln2.004,c.509-1G>C,infantile,1.5,The Netherlands,CLN2
+Pa-cln2.334,cln2.001,p.(Arg208*),infantile,1.5,The Netherlands,CLN2
+Pa-cln2.335,cln2.011,p.(Gln75=),late infantile,3,The Netherlands,CLN2
+Pa-cln2.335,cln2.001,p.(Arg208*),late infantile,3,The Netherlands,CLN2
+Pa-cln2.336,cln2.011,p.(Gln75=),late infantile,3,The Netherlands,CLN2
+Pa-cln2.336,cln2.001,p.(Arg208*),late infantile,3,The Netherlands,CLN2
+Pa-cln2.337,cln2.001,p.(Arg208*),late infantile,3,Argentina,CLN2
+Pa-cln2.337,cln2.089,p.(Asp276Val),late infantile,3,Argentina,CLN2
+Pa-cln2.338,cln2.089,p.(Asp276Val),late infantile,3,Argentina,CLN2
+Pa-cln2.339,cln2.089,p.(Asp276Val),late infantile,3,Argentina,CLN2
+Pa-cln2.340,cln2.090,p.(Ala453Val),late infantile,4,Argentina,CLN2
+Pa-cln2.340,cln2.083,p.(Leu104*),late infantile,4,Argentina,CLN2
+Pa-cln2.341,cln2.090,p.(Ala453Val),late infantile,4.5,Argentina,CLN2
+Pa-cln2.341,cln2.089,p.(Asp276Val),late infantile,4.5,Argentina,CLN2
+Pa-cln2.342,cln2.083,p.(Leu104*),late infantile,3,Argentina,CLN2
+Pa-cln2.343,cln2.089,p.(Asp276Val),late infantile,4,Chile,CLN2
+Pa-cln2.344,cln2.001,p.(Arg208*),late infantile,3.5,Argentina,CLN2
+Pa-cln2.344,cln2.089,p.(Asp276Val),late infantile,3.5,Argentina,CLN2
+Pa-cln2.345,cln2.089,p.(Asp276Val),late infantile,4,Argentina,CLN2
+Pa-cln2.346,cln2.001,p.(Arg208*),,,Argentina,CLN2
+Pa-cln2.347,cln2.004,c.509-1G>C,late infantile,3.5,Argentina,CLN2
+Pa-cln2.347,cln2.089,p.(Asp276Val),late infantile,3.5,Argentina,CLN2
+Pa-cln2.348,cln2.077,p.(Arg339Gln),late infantile,4,Argentina,CLN2
+Pa-cln2.349,cln2.079,c.887-10A>G,juvenile,9,Argentina,CLN2
+Pa-cln2.349,cln2.010,p.(Gln66*),juvenile,9,Argentina,CLN2
+Pa-cln2.350,cln2.079,c.887-10A>G,juvenile,9,Argentina,CLN2
+Pa-cln2.350,cln2.010,p.(Gln66*),juvenile,9,Argentina,CLN2
+Pa-cln2.351,cln2.079,c.887-10A>G,juvenile,9,Argentina,CLN2
+Pa-cln2.351,cln2.010,p.(Gln66*),juvenile,9,Argentina,CLN2
+Pa-cln2.352,cln2.028,c.1107_1108del,late infantile,2,Chile,CLN2
+Pa-cln2.352,cln2.089,p.(Asp276Val),late infantile,2,Chile,CLN2
+Pa-cln2.353,cln2.079,c.887-10A>G,late infantile,3,Chile,CLN2
+Pa-cln2.353,cln2.024,p.(Ser475Leu),late infantile,3,Chile,CLN2
+Pa-cln2.354,cln2.079,c.887-10A>G,juvenile,10,Chile,CLN2
+Pa-cln2.354,cln2.089,p.(Asp276Val),juvenile,10,Chile,CLN2
+Pa-cln2.355,cln2.139,p.(Arg350Trp),juvenile,5,Argentina,CLN2
+Pa-cln2.355,cln2.132,p.(Gly535Arg),juvenile,5,Argentina,CLN2
+Pa-cln2.356,cln2.139,p.(Arg350Trp),juvenile,5,Argentina,CLN2
+Pa-cln2.356,cln2.132,p.(Gly535Arg),juvenile,5,Argentina,CLN2
+Pa-cln2.357,cln2.076,c.89+5G>C,late infantile,3,Argentina,CLN2
+Pa-cln2.357,cln2.133,p.(Ala453Asp),late infantile,3,Argentina,CLN2
+Pa-cln2.358,cln2.076,c.89+5G>C,late infantile,2.5,Argentina,CLN2
+Pa-cln2.358,cln2.133,p.(Ala453Asp),late infantile,2.5,Argentina,CLN2
+Pa-cln2.359,cln2.079,c.887-10A>G,juvenile,9,Argentina,CLN2
+Pa-cln2.359,cln2.001,p.(Arg208*),juvenile,9,Argentina,CLN2
+Pa-cln2.360,cln2.079,c.887-10A>G,juvenile,5,Argentina,CLN2
+Pa-cln2.360,cln2.001,p.(Arg208*),juvenile,5,Argentina,CLN2
+Pa-cln2.361,cln2.006,p.(Arg447His),juvenile,5,Argentina,CLN2
+Pa-cln2.361,cln2.024,p.(Ser475Leu),juvenile,5,Argentina,CLN2
+Pa-cln2.362,cln2.131,c.1076-2A>T,,,Italy,CLN2
+Pa-cln2.363,,not identified,late infantile,3,China,CLN2
+Pa-cln2.363,cln2.134,p.(Leu275Pro),late infantile,3,China,CLN2
+Pa-cln2.364,cln2.135,c.337dup,late infantile,,,CLN2
+Pa-cln2.364,cln2.001,p.(Arg208*),late infantile,,,CLN2
+Pa-cln2.365,cln2.136,c.1239_1240ins6,late infantile,,,CLN2
+Pa-cln2.365,cln2.004,c.509-1G>C,late infantile,,,CLN2
+Pa-cln2.366,cln2.137,c.229+3G>C,late infantile,,,CLN2
+Pa-cln2.367,cln2.138,c.1467del,late infantile,,,CLN2
+Pa-cln2.367,cln2.004,c.509-1G>C,late infantile,,,CLN2
+Pa-cln2.368,cln2.139,p.(Arg350Trp),late infantile,,,CLN2
+Pa-cln2.368,cln2.004,c.509-1G>C,late infantile,,,CLN2
+Pa-cln2.369,cln2.006,p.(Arg447His),late infantile,6,,CLN2
+Pa-cln2.369,cln2.109,p.(Gln264*),late infantile,6,,CLN2
+Pa-cln2.370,cln2.006,p.(Arg447His),late infantile,7,,CLN2
+Pa-cln2.370,cln2.109,p.(Gln264*),late infantile,7,,CLN2
+Pa-cln2.371,cln2.006,p.(Arg447His),late infantile,9,,CLN2
+Pa-cln2.371,cln2.109,p.(Gln264*),late infantile,9,,CLN2
+Pa-cln2.372,cln2.140,c.89+1G>A,late infantile,4,,CLN2
+Pa-cln2.373,cln2.141,c.1551+1G>T,late infantile,3,,CLN2
+Pa-cln2.373,cln2.142,p.(Ser538Tyr),late infantile,3,,CLN2
+Pa-cln2.374,cln2.144,p.(Gly409Val),not yet symptomatic,,Mexico,CLN2
+Pa-cln2.374,cln2.143,p.(Trp542*),not yet symptomatic,,Mexico,CLN2
+Pa-cln2.375,cln2.004,c.509-1G>C,early onset cerebellar ataxia,4,,CLN2
+Pa-cln2.375,cln2.029,p.(Glu343Asp) ,early onset cerebellar ataxia,4,,CLN2
+Pa-cln2.376,cln2.006,p.(Arg447His) ,Complex hereditary spastic paraplegia,4,Wales,CLN2
+Pa-cln2.376,cln2.045,p.(Gln509*),Complex hereditary spastic paraplegia,4,Wales,CLN2
+Pa-cln2.377,cln2.030,p.(Gly296Asp),,,,CLN2
+Pa-cln2.378,cln2.031,p.(Gly351Val),late infantile,,,CLN2
+Pa-cln2.254,cln2.004,c.509-1G>C,,,Turkey,CLN2
+Pa-cln2.254,cln2.053,p.(Phe516*),,,Turkey,CLN2
+Pa-cln2.380,cln2.041,p.(Arg206Cys),late infantile,,,CLN2
+Pa-cln2.381,cln2.041,p.(Arg206Cys),late infantile,,,CLN2
+Pa-cln2.382,cln2.042,p.(Tyr459Ser),late infantile,,,CLN2
+Pa-cln2.383,cln2.042,p.(Tyr459Ser),late infantile,,,CLN2
+Pa-cln2.384,cln2.053,p.(Phe516*),late infantile,,,CLN2
+Pa-cln2.385,cln2.041,p.(Arg206Cys),late infantile,,,CLN2
+Pa-cln2.386,cln2.001, p.(Arg208*),juvenile,5,Germany,CLN2
+Pa-cln2.386,,,juvenile,5,Germany,CLN2
+Pa-cln2.387,cln2.001, p.(Arg208*),late infantile,4,Poland,CLN2
+Pa-cln2.387,cln2.034, p.(Leu13Pro),late infantile,4,Poland,CLN2
+Pa-cln2.388,cln2.001, p.(Arg208*),juvenile,9,Spain,CLN2
+Pa-cln2.388,cln2.079,c.887-10A>G  ,juvenile,9,Spain,CLN2
+Pa-cln2.389,cln2.035, p.(Arg350Gln),congenital,0,"Greece, Macedonia",CLN2
+Pa-cln2.389,cln2.004,c.509-1G>C,congenital,0,"Greece, Macedonia",CLN2
+Pa-cln2.390,cln2.052, p.(Arg127Gln),late infantile,3,Germany,CLN2
+Pa-cln2.390,cln2.004,c.509-1G>C ,late infantile,3,Germany,CLN2
+Pa-cln2.391,cln2.047, p.(Arg339Trp),late infantile,3.8,Japan,CLN2
+Pa-cln2.391,cln2.036, p.(Met244Thr) ,late infantile,3.8,Japan,CLN2
+Pa-cln2.392,cln2.001, p.(Arg208*),juvenile,5.8,"Greece, Macedonia",CLN2
+Pa-cln2.392,cln2.038,p.(Tyr421Asn),juvenile,5.8,"Greece, Macedonia",CLN2
+Pa-cln2.393,cln2.131,c.1076-2A>T ,late infantile,4,Colombia,CLN2
+Pa-cln2.393,cln2.079,c.887-10A>G  ,late infantile,4,Colombia,CLN2
+Pa-cln2.394,cln2.047,p.(Arg339Trp),juvenile,5,Guatemala,CLN2
+Pa-cln2.394,cln2.039,p.(Val320Gly),juvenile,5,Guatemala,CLN2
+Pa-cln2.396,,not identified,late infantile,2.3,,CLN2
+Pa-cln2.396,cln2.061,p.(Gln161*),late infantile,2.3,,CLN2
+Pa-cln2.399,cln2.076,c.89+5G>C ,Juvenile,5.5,,CLN2
+Pa-cln2.399,cln2.006,p.(Arg447His),Juvenile,5.5,,CLN2
+Pa-cln2.400,cln2.139,p.(Arg350Trp),infantile,1,Colombia,CLN2
+Pa-cln2.400,wild type,wild type,infantile,1,Colombia,CLN2
+Pa-cln2.401,cln2.001,p.(Arg208*),late infantile,3,Brazil,CLN2
+Pa-cln2.402,,,late infantile,3,Brazil,CLN2
+Pa-cln2.402,in analysis,,late infantile,3,Brazil,CLN2
+Pa-cln2.403,cln2.131,c.1076-2A>T,late infantile,3,Colombia,CLN2
+Pa-cln2.403,cln2.097,p.(Val480Met),late infantile,3,Colombia,CLN2
+Pa-cln2.404,cln2.072,p.(Gly409Asp),late infantile,3.5,Argentina,CLN2
+Pa-cln2.404,cln2.079,c.887-10A>G,late infantile,3.5,Argentina,CLN2
+Pa-cln2.405,cln2.001,p.(Arg208*),late infantile,4,Brazil,CLN2
+Pa-cln2.405,cln2.022,p.(Gln422His),late infantile,4,Brazil,CLN2
+Pa-cln2.406,cln2.089,p.(Asp276Val),late infantile,4,Chile,CLN2
+Pa-cln2.407,cln2.079,c.887-10A>G,late infantile,4,Colombia,CLN2
+Pa-cln2.407,cln2.131,c.1076-2A>T,late infantile,4,Colombia,CLN2
+Pa-cln2.408,cln2.006,p.(Arg447His),juvenile,5,Chile,CLN2
+Pa-cln2.408,cln2.094,p.(Ala448Asp),juvenile,5,Chile,CLN2
+Pa-cln2.409,cln2.001,p.(Arg208*),juvenile,5,Argentina,CLN2
+Pa-cln2.409,cln2.079,c.887-10A>G,juvenile,5,Argentina,CLN2
+Pa-cln2.410,cln2.132,p.(Gly535Arg),juvenile,5,Argentina,CLN2
+Pa-cln2.410,cln2.139,p.(Arg350Trp),juvenile,5,Argentina,CLN2
+Pa-cln2.411,cln2.132,p.(Gly535Arg),juvenile,5,Argentina,CLN2
+Pa-cln2.411,cln2.139,p.(Arg350Trp),juvenile,5,Argentina,CLN2
+Pa-cln2.412,cln2.079,c.887-10A>G,juvenile,6,Chile,CLN2
+Pa-cln2.412,cln2.089,p.(Asp276Val),juvenile,6,Chile,CLN2
+Pa-cln2.413,cln2.024,p.(Ser475Leu),juvenile,6,Chile,CLN2
+Pa-cln2.413,cln2.139,p.(Arg350Trp),juvenile,6,Chile,CLN2
+Pa-cln2.414,cln2.024,p.(Ser475Leu),juvenile,6,Chile,CLN2
+Pa-cln2.414,cln2.079,c.887-10A>G,juvenile,6,Chile,CLN2
+Pa-cln2.415,cln2.006,p.(Arg447His),juvenile,7,Argentina,CLN2
+Pa-cln2.415,cln2.089,p.(Asp276Val),juvenile,7,Argentina,CLN2
+Pa-cln2.416,cln2.079,c.887-10A>G,juvenile,7,Argentina,CLN2
+Pa-cln2.416,cln2.072,p.(Gly409Asp),juvenile,7,Argentina,CLN2
+Pa-cln2.417,cln2.010,p.(Gln66*),juvenile,7,Argentina,CLN2
+Pa-cln2.417,cln2.079,c.887-10A>G,juvenile,7,Argentina,CLN2
+Pa-cln2.418,cln2.010,p.(Gln66*),juvenile,7,Argentina,CLN2
+Pa-cln2.418,cln2.079,c.887-10A>G,juvenile,7,Argentina,CLN2
+Pa-cln2.419,cln2.079,c.887-10A>G,juvenile,8,Brazil,CLN2
+Pa-cln2.419,in analysis,,juvenile,8,Brazil,CLN2
+Pa-cln2.420,cln2.001,p.(Arg208*),juvenile,8,Argentina,CLN2
+Pa-cln2.420,cln2.079,c.887-10A>G,juvenile,8,Argentina,CLN2
+Pa-cln2.421,cln2.139 ; cln2.097,p.(Arg350Trp) ; p.(Val480Met),juvenile,9,Colombia,CLN2
+Pa-cln2.421,cln2.097,p.(Val480Met),juvenile,9,Colombia,CLN2
+Pa-cln2.422,cln2.024,p.(Ser475Leu),juvenile,9,Chile,CLN2
+Pa-cln2.422,cln2.139,p.(Arg350Trp),juvenile,9,Chile,CLN2
+Pa-cln2.423,cln2.079,c.887-10A>G,juvenile,9,Chile,CLN2
+Pa-cln2.423,cln2.089,p.(Asp276Val),juvenile,9,Chile,CLN2
+Pa-cln2.424,,,juvenile,9,Chile,CLN2
+Pa-cln2.425,cln2.097,p.(Val480Met),juvenile,10,Colombia,CLN2
+Pa-cln2.425,cln2.131,c.1076-2A>T,juvenile,10,Colombia,CLN2
+Pa-cln2.426,cln2.097,p.(Val480Met),late juvenile,11,Colombia,CLN2
+Pa-cln2.426,cln2.131,c.1076-2A>T,late juvenile,11,Colombia,CLN2
+Pa-cln2.427,cln2.079,c.887-10A>G,adult,41,Brazil,CLN2
+Pa-cln2.428,cln2.006,p.(Arg447His),juvenile,5.5,Brazil,CLN2
+Pa-cln2.428,cln2.080,p.(Val480Gly),juvenile,5.5,Brazil,CLN2
+Pa-cln2.429,cln2.004,c.509-1G>C,Adult,19,,CLN2
+Pa-cln2.429,cln2.099,p.(Tyr336Cys),Adult,19,,CLN2
+Pa-cln2.430,cln2.100,p.(Ser382Asn),congenital,0.08,,CLN2
+Pa-cln2.431,cln2.116,c.1145+2T>G,,-,Egypt,CLN2
+Pa-cln2.432,cln2.120,c.1266+1G>C,late infantile,4.1,Egypt,CLN2
+Pa-cln2.433,cln2.121,p.(Gly482Arg),congenital,0,Egypt,CLN2
+Pa-cln2.434,cln2.070,p.(Gln55*),late infantile,2.5,India,CLN2
+Pa-cln2.435,cln2.145,p.(Ala555Leufs*3),late infantile,3,Tunisia,CLN2
+Pa-cln2.436,cln2.146,p.(Pro178Glnfs*5),,-,Lebanon,CLN2
+Pa-cln2.437,cln2.147,p.(Arg206Pro),infantile,1.9,Egypt,CLN2
+Pa-cln2.438,cln2.148,p.(Phe243Leu),late infantile,3,Lebanon,CLN2
+Pa-cln2.439,cln2.149,p.(Arg268Glyfs*8),late infantile,3,Egypt,CLN2
+Pa-cln2.440,cln2.150,c.89+2_887del,,-,Oman,CLN2
+Pa-cln2.441,cln2.004, c.509-1G>C ,late infantile,3.25,Australia,CLN2
+Pa-cln2.441,cln2.004,c.509-1G>C ,late infantile,3.25,Australia,CLN2
+Pa-cln2.442,cln2.002,p.(Cys365Arg),late infantile,2.5,Australia,CLN2
+Pa-cln2.442,cln2.057,p.(Gly473Arg),late infantile,2.5,Australia,CLN2
+Pa-cln2.443,cln2.004, c.509-1G>C ,late infantile,3.1,Australia,CLN2
+Pa-cln2.443,cln2.004,c.509-1G>C ,late infantile,3.1,Australia,CLN2
+Pa-cln2.444,cln2.004, c.509-1G>C ,late infantile,3,Australia,CLN2
+Pa-cln2.444,cln2.004,c.509-1G>C ,late infantile,3,Australia,CLN2
+Pa-cln2.445,cln2.011,p.(Gln75=),late infantile,3.5,Australia,CLN2
+Pa-cln2.446,cln2.004,c.509-1G>C ,late infantile,2.7,Australia,CLN2
+Pa-cln2.447,cln2.004,c.509-1G>C ,late infantile,3.2,Australia,CLN2
+Pa-cln2.448,cln2.004,c.509-1G>C ,late infantile,3.2,Australia,CLN2
+Pa-cln2.449,cln2.001,p.(Arg208*),late infantile,3,Australia,CLN2
+Pa-cln2.449,cln2.151,p.(Tyr76*),late infantile,3,Australia,CLN2
+Pa-cln2.450,cln2.004,c.509-1G>C ,late infantile,3.5,Australia,CLN2
+Pa-cln2.451,cln2.004,c.509-1G>C ,infantile,1.5,Australia,CLN2
+Pa-cln2.452,cln2.001,p.(Arg208*),late infantile,3,Australia,CLN2
+Pa-cln2.452,cln2.051,p.(Leu120Serfs*18),late infantile,3,Australia,CLN2
+Pa-cln2.453,cln2.004,c.509-1G>C,late infantile,2.9,Australia,CLN2
+Pa-cln2.453,cln2.001,p.(Arg208*),late infantile,2.9,Australia,CLN2
+Pa-cln2.454,cln2.024,p.(Ser475Leu),late infantile,3,,CLN2
+Pa-cln2.455,cln2.152,p.(Gly77Arg),late infantile,3,,CLN2
+Pa-cln2.456,cln2.001,p.(Arg208*),late infantile,3,,CLN2
+Pa-cln2.457,cln2.010,p.(Gln66*),late infantile,2.5,,CLN2
+Pa-cln2.457,cln2.001,p.(Arg208*),late infantile,2.5,,CLN2
+Pa-cln2.458,cln2.004,c.509-1G>C,late infantile,3,,CLN2
+Pa-cln2.458,cln2.004,c.509-1G>A,late infantile,3,,CLN2
+Pa-cln2.459,cln2.153,p.(His491Thrfs*28),,,,CLN2
+Pa-cln2.459,cln2.154,p.(Glu532Argfs*76),,,,CLN2
+Pa-cln2.460,cln2.047,p.(Arg339Trp),late infantile,2.7,,CLN2
+Pa-cln2.461,cln2.011,p.(Gln75=),late infantile,4,,CLN2
+Pa-cln2.462,cln2.011,p.(Gln75=),late infantile,3.7,,CLN2
+Pa-cln2.463,cln2.011,p.(Gln75=),late infantile,3.5,,CLN2
+Pa-cln2.464,cln2.155,p.(Gln278*),late infantile,4,,CLN2
+Pa-cln2.465,cln2.034,p.(Leu13Pro) ,adult,36,,CLN2
+Pa-cln2.465,cln2.156,p.(Tyr508Cys),adult,36,,CLN2
+Pa-cln2.466,cln2.011,p.(Gln75=),juvenile,5,,CLN2
+Pa-cln2.466,cln2.157,p.(Gln338Glu),juvenile,5,,CLN2
+Pa-cln2.467,cln2.001,p.(Arg208*),late infantile,3,UK,CLN2
+Pa-cln2.467,cln2.158,p.(Gly171Arg),late infantile,3,UK,CLN2
+Pa-cln2.468,cln2.159,p.(Pro178Glnfs*),late infantile,3,Gambia,CLN2
+Pa-cln2.259,cln2.114,p.(Ala448Val),,,Turkey,CLN2
+Pa-cln2.259,cln2.001,p.(Arg208*),,,Turkey,CLN2
+Pa-cln2.300,cln2.050,c.380+55G>A,,,Turkey,CLN2
+Pa-cln2.300,,not identified,,,Turkey,CLN2
+Pa-cln2.471,cln2.160,p.(Met345Leu),,,India,CLN2
+Pa-cln2.471,,,,,India,CLN2
+Pa-cln2.472,cln2.047,p.(Arg339Trp),,,India,CLN2
+Pa-cln2.473,cln2.077,p.(Arg339Gln),,,India,CLN2
+Pa-cln2.474,cln2.053,p.(Phe516*),,,India,CLN2
+Pa-cln2.475,cln2.041,p.(Arg206Cys),,,India,CLN2
+Pa-cln2.476,cln2.063,p.(Asn286Ser),,,India,CLN2
+Pa-cln2.476,cln2.161,p.(Ser62Argfs*19),,,India,CLN2
+Pa-cln2.477,cln2.162,p.(Arg152Ser),,,India,CLN2
+Pa-cln2.478,cln2.042,p.(Tyr459Ser),,,India,CLN2
+Pa-cln2.479,cln2.163,p.(Ser153Profs*19),,,India,CLN2
+Pa-cln2.480,cln2.164,p.(Tyr157*),,,India,CLN2
+Pa-cln2.481,cln2.165,p.(Phe230Serfs*28),,,India,CLN2
+Pa-cln2.481,cln2.166,p.(Ile484Aspfs*7),,,India,CLN2
+Pa-cln2.482,cln2.004,c.509‐1G>C,late infantile,3.5,,CLN2
+Pa-cln2.482,cln2.001,p.(Arg208*),late infantile,3.5,,CLN2
+Pa-cln2.483,cln2.004,c.509‐1G>C,late infantile,<3,,CLN2
+Pa-cln2.483,cln2.060,p.(Leu355Pro),late infantile,<3,,CLN2
+Pa-cln2.484,cln2.004,c.509‐1G>C,late infantile,3,,CLN2
+Pa-cln2.484,cln2.001,p.(Arg208*),late infantile,3,,CLN2
+Pa-cln2.485,cln2.004,c.509‐1G>C,late infantile,3.5,,CLN2
+Pa-cln2.485,cln2.152,p.(Gly77Arg),late infantile,3.5,,CLN2
+Pa-cln2.486,cln2.004,c.509‐1G>C,infantile,1.3,,CLN2
+Pa-cln2.486,cln2.152,p.(Gly77Arg),infantile,1.3,,CLN2
+Pa-cln2.487,cln2.159,p.(Pro178Glnfs*),late infantile,3.6,,CLN2
+Pa-cln2.489,cln2.168,p.(Glu402Gly),Late infantile,2.5,Iran,CLN2
+Pa-cln2.490,cln2.168,p.(Glu402Gly),Late infantile,3,Iran,CLN2
+Pa-cln2.491,cln2.168,p.(Glu402Gly),Late infantile,3.5,Iran,CLN2
+Pa-cln2.492,cln2.168,p.(Glu402Gly),Late infantile,3,Iran,CLN2
+Pa-cln2.493,cln2.001,p.(Arg208*),Late infantile,2,Iran,CLN2
+Pa-cln2.494,cln2.169,p.(His523Arg),Late infantile,3.9,Iran,CLN2
+Pa-cln2.495,cln2.141,c.1551+1G>T,Late infantile,3,Iran,CLN2
+Pa-cln2.488,cln2.167,p.(Pro178Glnfs*),infantile,1,Iran,CLN2
+Pa-cln2.496,cln2.170,c.2T>C,,,India,CLN2
+Pa-cln2.497,cln2.047,p.(Arg339Trp),,,India,CLN2
+Pa-cln2.498,cln2.171,p.(Asp360Glu),,,India,CLN2
+Pa-cln2.499,cln2.172,p.(Leu515Arg),,,India,CLN2
+Pa-cln2.500,cln2.001,p.(Arg208*),late infantile,2,Russia,CLN2
+Pa-cln2.501,cln2.004,c.509-1G>C,atypical - protracted,,USA,CLN2
+Pa-cln2.501,cln2.029,p.(Glu343Asp) ,atypical - protracted,,USA,CLN2
+Pa-cln2.502,cln2.004,c.509-1G>C,atypical - protracted,,USA,CLN2
+Pa-cln2.502,cln2.029,p.(Glu343Asp) ,atypical - protracted,,USA,CLN2
+Pa-cln2.503,cln2.173,p.(Tyr279*),atypical - protracted,,USA,CLN2
+Pa-cln2.503,cln2.175,c.508+4A>G,atypical - protracted,,USA,CLN2
+Pa-cln2.504,cln2.173,p.(Tyr279*),atypical - protracted,,USA,CLN2
+Pa-cln2.504,cln2.175,c.508+4A>G,atypical - protracted,,USA,CLN2
+Pa-cln2.505,cln2.152,p.(Gly77Arg),late infantile,2.75,Ecuador,CLN2
+Pa-cln2.506,cln2.174,p.(Glu490Lys),autosomal recessive spinocerebellar ataxia 7,12,China,CLN2
+Pa-cln2.506,cln2.057,p.(Gly473Arg),autosomal recessive spinocerebellar ataxia 7,12,China,CLN2
+Pa-cln2.507,cln2.005,p.(Gln161*),infantile,1.5,Saudi Arabia,CLN2
+Pa-cln2.508,cln2.047,p.(Arg339Trp),late infantile,3,Saudi Arabia,CLN2
+Pa-cln2.509,cln2.006,p.(Arg447His),juvenile,10,Spain,CLN2
+Pa-cln2.509,cln2.176,p.(Ser538Phe),juvenile,10,Spain,CLN2
+Pa-cln2.510,cln2.177,c.1425_1425+1delinsAT,late infantile,3,Iran,CLN2
+Pa-cln2.511,cln2.077,p.(Arg339Gln),late infantile,2.4,India,CLN2
+Pa-cln2.512,cln2.178,p.(Ser408del),,,Malaysia,CLN2
+Pa-cln2.512,cln2.179,p.(Cys227Arg),,,Malaysia,CLN2
+Pa-cln2.513,cln2.179,p.(Cys227Arg),late infantile,4,India,CLN2
+Pa-cln2.514,cln2.041,p.(Arg206Cys),late infantile,4,India,CLN2
+Pa-cln2.515,cln2.180,p.(Glu44*) ,late infantile,2.2,India,CLN2
+Pa-cln2.516,cln2.077,p.(Arg339Gln),juvenile,6,India,CLN2
+Pa-cln2.516,cln2.181, p.(Thr342Pro) ,juvenile,6,India,CLN2
+Pa-cln2.517,cln2.091,p.(Arg206His),juvenile,5.7,India,CLN2
+Pa-cln2.518,cln2.001,p.(Arg208*),late infantile,2.4,Ukraine,CLN2
+Pa-cln2.518,novel,p.(Tyr406*),late infantile,2.4,Ukraine,CLN2
+Pa-cln2.519,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.519,cln2.027,p.(Leu560Thrfs*47),late infantile,3,Ukraine,CLN2
+Pa-cln2.520,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.521,cln2.027,p.(Leu560Thrfs*47),late infantile,3,Ukraine,CLN2
+Pa-cln2.522,cln2.024,p.(Ser475Leu),late infantile,3,Ukraine,CLN2
+Pa-cln2.523,cln2.011,p.(Gln75=),late infantile,3.4,Ukraine,CLN2
+Pa-cln2.524,cln2.001,p.(Arg208*),late infantile,4,Ukraine,CLN2
+Pa-cln2.524,cln2.004,c.509-1G>C,late infantile,4,Ukraine,CLN2
+Pa-cln2.525,cln2.001,p.(Arg208*),late infantile,2,Ukraine,CLN2
+Pa-cln2.525,cln2.004,c.509-1G>C,late infantile,2,Ukraine,CLN2
+Pa-cln2.526,cln2.001,p.(Arg208*),infantile,1,Ukraine,CLN2
+Pa-cln2.527,cln2.001,p.(Arg208*),late infantile,3.4,Ukraine,CLN2
+Pa-cln2.528,cln2.001,p.(Arg208*),juvenile,7,Ukraine,CLN2
+Pa-cln2.528,cln2.011,p.(Gln75=),juvenile,7,Ukraine,CLN2
+Pa-cln2.529,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.529,cln2.184,c.1436_1437del,late infantile,3,Ukraine,CLN2
+Pa-cln2.530,cln2.001,p.(Arg208*),late infantile,4,Ukraine,CLN2
+Pa-cln2.530,cln2.014,p.(Arg127*),late infantile,4,Ukraine,CLN2
+Pa-cln2.531,cln2.001,p.(Arg208*),juvenile,6,Ukraine,CLN2
+Pa-cln2.531,cln2.092,p.(Met281Ile),juvenile,6,Ukraine,CLN2
+Pa-cln2.532,cln2.001,p.(Arg208*),juvenile,7,Ukraine,CLN2
+Pa-cln2.532,cln2.027,p.(Leu560Thrfs*47),juvenile,7,Ukraine,CLN2
+Pa-cln2.533,cln2.001,p.(Arg208*),late infantile,2.4,Ukraine,CLN2
+Pa-cln2.534,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.535,cln2.001,p.(Arg208*),late infantile,2,Ukraine,CLN2
+Pa-cln2.535,cln2.011,p.(Gln75=),late infantile,2,Ukraine,CLN2
+Pa-cln2.536,cln2.001,p.(Arg208*),late infantile,3.4,Ukraine,CLN2
+Pa-cln2.537,cln2.001,p.(Arg208*),juvenile,8,Ukraine,CLN2
+Pa-cln2.538,cln2.001,p.(Arg208*),juvenile,7,Ukraine,CLN2
+Pa-cln2.539,cln2.027,p.(Leu560Thrfs*47),late infantile,3.4,Ukraine,CLN2
+Pa-cln2.539,cln2.004,c.509-1G>C,late infantile,3.4,Ukraine,CLN2
+Pa-cln2.540,cln2.001,p.(Arg208*),late infantile,4,Ukraine,CLN2
+Pa-cln2.540,cln2.011,p.(Gln75=),late infantile,4,Ukraine,CLN2
+Pa-cln2.541,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.542,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.543,cln2.001,p.(Arg208*),late infantile,3.4,Ukraine,CLN2
+Pa-cln2.543,cln2.027,p.(Leu560Thrfs*47),late infantile,3.4,Ukraine,CLN2
+Pa-cln2.544,cln2.001,p.(Arg208*),late infantile,4,Ukraine,CLN2
+Pa-cln2.544,cln2.004,c.509-1G>C,late infantile,4,Ukraine,CLN2
+Pa-cln2.545,cln2.001,p.(Arg208*),late infantile,3.4,Ukraine,CLN2
+Pa-cln2.545,cln2.068,p.(Gln278Pro),late infantile,3.4,Ukraine,CLN2
+Pa-cln2.546,cln2.001,p.(Arg208*),late infantile,4,Ukraine,CLN2
+Pa-cln2.546,cln2.004,c.509-1G>C,late infantile,4,Ukraine,CLN2
+Pa-cln2.547,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.548,cln2.001,p.(Arg208*),late infantile,2,Ukraine,CLN2
+Pa-cln2.549,cln2.001,p.(Arg208*),late infantile,4,Ukraine,CLN2
+Pa-cln2.550,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.551,cln2.024,p.(Ser475Leu),late infantile,2,Ukraine,CLN2
+Pa-cln2.552,cln2.001,p.(Arg208*),late infantile,3.4,Ukraine,CLN2
+Pa-cln2.553,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.554,cln2.001,p.(Arg208*),late infantile,3.75,Ukraine,CLN2
+Pa-cln2.555,cln2.001,p.(Arg208*),late infantile,2.4,Ukraine,CLN2
+Pa-cln2.555,cln2.027,p.(Leu560Thrfs*47),late infantile,2.4,Ukraine,CLN2
+Pa-cln2.556,cln2.001,p.(Arg208*),late infantile,3.9,Ukraine,CLN2
+Pa-cln2.557,cln2.001,p.(Arg208*),late infantile,2.4,Ukraine,CLN2
+Pa-cln2.557,novel,p.(Tyr406*),late infantile,2.4,Ukraine,CLN2
+Pa-cln2.558,cln2.001,p.(Arg208*),late infantile,2.7,Ukraine,CLN2
+Pa-cln2.559,cln2.001,p.(Arg208*),juvenile,6,Ukraine,CLN2
+Pa-cln2.559,novel,p.(Tyr449Asn),juvenile,6,Ukraine,CLN2
+Pa-cln2.560,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.561,cln2.001,p.(Arg208*),late infantile,2.4,Ukraine,CLN2
+Pa-cln2.562,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.563,cln2.001,p.(Arg208*),late infantile,2,Ukraine,CLN2
+Pa-cln2.564,cln2.001,p.(Arg208*),late infantile,3,Ukraine,CLN2
+Pa-cln2.564,cln2.027,p.(Leu560Thrfs*47),late infantile,3,Ukraine,CLN2
+Pa-cln2.565,cln2.001,p.(Arg208*),juvenile,7,Ukraine,CLN2
+Pa-cln2.565,novel,p.(Tyr449Asn),juvenile,7,Ukraine,CLN2
+Pa-cln2.566,cln2.001,p.(Arg208*),juvenile,7,Brazil,CLN2
+Pa-cln2.566,cln2.079,c.887–10A>G,juvenile,7,Brazil,CLN2
+Pa-cln2.567,cln2.182,(p.Leu354Pro),late infantile,4,Brazil,CLN2
+Pa-cln2.567,cln2.183,(p.Glu302Lys),late infantile,4,Brazil,CLN2
+Pa-cln2.568,cln2.144,p.(Gly409Val),late infantile,2.75,Mexico,CLN2
+Pa-cln2.569,cln2.001,p.(Arg208Ter),juvenile,5,India,CLN2
+Pa-cln2.570,cln2.185,c.1266_1266+1delinsTACAAACAAACA,late infantile,1.5,India,CLN2
+Pa-cln2.571,cln2.165,p.(Phe230Serfs*),late infantile,3,India,CLN2
+Pa-cln2.571,cln2.166,p.(Ile484Aspfs*),late infantile,3,India,CLN2
+Pa-cln2.572,cln2.057,p.(Gly473Arg),late infantile,3,India,CLN2
+Pa-cln2.573,cln2.077,p.(Arg339Gln),late infantile,3,India,CLN2
+Pa-cln2.574,cln2.186,p.(Val167Gly),late infantile,2.5,India,CLN2
+Pa-cln2.575,cln2.187,p.(Ile484Asnfs*),late infantile,3,India,CLN2
+Pa-cln2.576,cln2.188,p.(Ala349Pro),juvenile,8,India,CLN2
+Pa-cln2.577,cln2.177,p.(Leu61Profs*),late infantile,3,India,CLN2
+Pa-cln2.578,cln2.077,p.(Arg339Gln),late infantile,2.5,India,CLN2
+Pa-cln2.579,cln2.014,p.(Arg127*),late infantile,2.5,India,CLN2
+Pa-cln2.580,cln2.189,p.(Trp542Cys),late infantile,4,India,CLN2
+Pa-cln2.581,cln2.190,p.(Ile205Asn),late infantile,2.66,Croatia / Bosnia Herzegovina,CLN2
+,,,,,,CLN2
+Notes,,,,,,CLN2
+"Congenital - around birth, infantile (6-18 mo), late infantile (2-4 yr), juvenile (5-10 yr), late juvenile (11-17 yr), Adult (18+), SCAR7 = autosomal recessive spinocerebellar ataxia, 7",,,,,,CLN2
+"GROD - Granular Osmiophilic Deposits, CL - Curvilinear, RL- Rectilinear, FP - Fingerprint, condensed",,,,,,CLN2
+NA - not available or not applicable,,,,,,CLN2
+REL# - family relationship between these individuals. Each family is indicated by a number. See Notes column for further detals of relationship.,,,,,,CLN2
+Pa-cln3.140,cln3.001,c.461-280_677+382del,Protracted juvenile,5.5,Finland,CLN3
+Pa-cln3.140,cln3.002,c.(790+1_791-1)_(1056+1_1057-1)del,Protracted juvenile,5.5,Finland,CLN3
+Pa-cln3.141,cln3.001,c.461-280_677+382del,Protracted juvenile,7,Finland,CLN3
+Pa-cln3.141,cln3.004,c.533+1G>C,Protracted juvenile,7,Finland,CLN3
+Pa-cln3.142,cln3.001,c.461-280_677+382del,juvenile,,Morocco,CLN3
+Pa-cln3.142,cln3.003,c.432+?_1350-?del,juvenile,,Morocco,CLN3
+Pa-cln3.143,cln3.001,c.461-280_677+382del,juvenile,,The Netherlands,CLN3
+Pa-cln3.143,cln3.005,p.(Leu101Pro),juvenile,,The Netherlands,CLN3
+Pa-cln3.144,cln3.001,c.461-280_677+382del,juvenile,,UK,CLN3
+Pa-cln3.144,cln3.006,p.(Arg127fs),juvenile,,UK,CLN3
+Pa-cln3.145,cln3.001,c.461-280_677+382del,juvenile,,USA,CLN3
+Pa-cln3.145,cln3.008,c.461-13G>C,juvenile,,USA,CLN3
+Pa-cln3.146,cln3.001,c.461-280_677+382del,juvenile,,Sweden,CLN3
+Pa-cln3.146,cln3.009,p.(Ser161*),juvenile,,Sweden,CLN3
+Pa-cln3.147,cln3.001,c.461-280_677+382del,juvenile,,Denmark,CLN3
+Pa-cln3.147,cln3.010,p.(Ser162*),juvenile,,Denmark,CLN3
+Pa-cln3.148,cln3.001,c.461-280_677+382del,juvenile,,UK,CLN3
+Pa-cln3.148,cln3.011,p.(Leu170Pro),juvenile,,UK,CLN3
+Pa-cln3.149,cln3.001,c.461-280_677+382del,juvenile,,UK,CLN3
+Pa-cln3.149,cln3.011,p.(Leu170Pro),juvenile,,UK,CLN3
+Pa-cln3.150,cln3.014,p.(Gln211*),juvenile,,Italy,CLN3
+Pa-cln3.150,,,juvenile,,Italy,CLN3
+Pa-cln3.151,cln3.001,c.461-280_677+382del,Protracted juvenile,6,Finland,CLN3
+Pa-cln3.151,cln3.015,p.(Glu295Lys),Protracted juvenile,6,Finland,CLN3
+Pa-cln3.152,cln3.001,c.461-280_677+382del,juvenile,,Denmark,CLN3
+Pa-cln3.152,cln3.017,p.(Gln327*),juvenile,,Denmark,CLN3
+Pa-cln3.153,cln3.001,c.461-280_677+382del,juvenile,,Norway,CLN3
+Pa-cln3.153,cln3.018,p.(Val330Phe),juvenile,,Norway,CLN3
+Pa-cln3.154,cln3.001,c.461-280_677+382del,juvenile,,The Netherlands,CLN3
+Pa-cln3.154,cln3.019,p.(Arg334Cys),juvenile,,The Netherlands,CLN3
+Pa-cln3.155,cln3.001,c.461-280_677+382del,juvenile,,The Netherlands,CLN3
+Pa-cln3.155,cln3.019,p.(Arg334Cys),juvenile,,The Netherlands,CLN3
+Pa-cln3.156,cln3.001,c.461-280_677+382del,juvenile,,The Netherlands,CLN3
+Pa-cln3.156,cln3.019,p.(Arg334Cys),juvenile,,The Netherlands,CLN3
+Pa-cln3.157,cln3.001,c.461-280_677+382del,Protracted juvenile,5.5,Finland,CLN3
+Pa-cln3.157,cln3.020,p.(Arg334His),Protracted juvenile,5.5,Finland,CLN3
+Pa-cln3.158,cln3.001,c.461-280_677+382del,juvenile,,UK,CLN3
+Pa-cln3.158,cln3.020,p.(Arg334His),juvenile,,UK,CLN3
+Pa-cln3.159,cln3.001,c.461-280_677+382del,juvenile,,Germany,CLN3
+Pa-cln3.159,cln3.020,p.(Arg334His),juvenile,,Germany,CLN3
+Pa-cln3.160,cln3.001,c.461-280_677+382del,juvenile,,USA,CLN3
+Pa-cln3.160,cln3.020,p.(Arg334His),juvenile,,USA,CLN3
+Pa-cln3.161,cln3.001,c.461-280_677+382del,juvenile,,The Netherlands,CLN3
+Pa-cln3.161,cln3.021,p.(Gln352*),juvenile,,The Netherlands,CLN3
+Pa-cln3.162,cln3.001,c.461-280_677+382del,juvenile,,USA,CLN3
+Pa-cln3.162,cln3.021,p.(Gln352*),juvenile,,USA,CLN3
+Pa-cln3.163,cln3.001,c.461-280_677+382del,juvenile,5,USA,CLN3
+Pa-cln3.163,cln3.022,p.(Thr400*),juvenile,5,USA,CLN3
+Pa-cln3.164,cln3.001,c.461-280_677+382del,juvenile,5,USA,CLN3
+Pa-cln3.164,cln3.022,p.(Thr400*),juvenile,5,USA,CLN3
+Pa-cln3.165,cln3.001,c.461-280_677+382del,juvenile,5,USA,CLN3
+Pa-cln3.165,cln3.022,p.(Thr400*),juvenile,5,USA,CLN3
+Pa-cln3.166,cln3.001,c.461-280_677+382del,juvenile,,UK,CLN3
+Pa-cln3.166,cln3.023,p.(Leu425fs),juvenile,,UK,CLN3
+Pa-cln3.167,cln3.007,p.(Val142fs),juvenile,,The Netherlands,CLN3
+Pa-cln3.168,cln3.007,p.(Val142fs),juvenile,,The Netherlands,CLN3
+Pa-cln3.169,cln3.007,p.(Val142fs),juvenile,,The Netherlands,CLN3
+Pa-cln3.170,cln3.001,c.461-280_677+382del,juvenile,,USA,CLN3
+Pa-cln3.170,cln3.007,p.(Val142fs),juvenile,,USA,CLN3
+Pa-cln3.171,cln3.001,c.461-280_677+382del,juvenile,,USA,CLN3
+Pa-cln3.171,cln3.007,p.(Val142fs),juvenile,,USA,CLN3
+Pa-cln3.172,cln3.012,p.(Gly187fs),juvenile,,Italy,CLN3
+Pa-cln3.173,cln3.013,p.(Ala196Glyfs*40),juvenile,,UK,CLN3
+Pa-cln3.174,cln3.016,p.(His315fs),juvenile,,Italy,CLN3
+Pa-cln3.175,cln3.016,p.(His315fs),juvenile,,Italy,CLN3
+Pa-cln3.176,cln3.001,c.461-280_677+382del,juvenile,,Iceland,CLN3
+Pa-cln3.176,cln3.016,p.(His315fs),juvenile,,Iceland,CLN3
+Pa-cln3.177,cln3.001,c.461-280_677+382del,juvenile,,USA,CLN3
+Pa-cln3.177,cln3.016,p.(His315fs),juvenile,,USA,CLN3
+Pa-cln3.190,cln3.001,c.461-280_677+382del,juvenile,,,CLN3
+Pa-cln3.190,,,juvenile,,,CLN3
+Pa-cln3.191,,,juvenile,,,CLN3
+Pa-cln3.192,cln3.001,c.461-280_677+382del,Protracted juvenile,8,Finland,CLN3
+Pa-cln3.192,cln3.027,c.(790+1_791-1)_(1056+1_1057-1)del,Protracted juvenile,8,Finland,CLN3
+Pa-cln3.193,cln3.001,c.461-280_677+382del,Protracted juvenile,6.7,Finland,CLN3
+Pa-cln3.193,cln3.027,c.(790+1_791-1)_(1056+1_1057-1)del,Protracted juvenile,6.7,Finland,CLN3
+Pa-cln3.194,cln3.001,c.461-280_677+382del,Protracted juvenile,5.6,Finland,CLN3
+Pa-cln3.194,cln3.027,c.(790+1_791-1)_(1056+1_1057-1)del,Protracted juvenile,5.6,Finland,CLN3
+Pa-cln3.195,cln3.001,c.461-280_677+382del,Protracted juvenile,5.5,Finland,CLN3
+Pa-cln3.195,cln3.027,c.(790+1_791-1)_(1056+1_1057-1)del,Protracted juvenile,5.5,Finland,CLN3
+Pa-cln3.196,cln3.001,c.461-280_677+382del,Protracted juvenile,6,Finland,CLN3
+Pa-cln3.196,cln3.027,c.(790+1_791-1)_(1056+1_1057-1)del,Protracted juvenile,6,Finland,CLN3
+Pa-cln3.197,cln3.001,c.461-280_677+382del,Protracted juvenile,5,Finland,CLN3
+Pa-cln3.197,cln3.027,c.(790+1_791-1)_(1056+1_1057-1)del,Protracted juvenile,5,Finland,CLN3
+Pa-cln3.230,cln3.001,c.461-280_677+382del,Protracted juvenile,5,,CLN3
+Pa-cln3.230,cln3.015,p.(Glu295Lys),Protracted juvenile,5,,CLN3
+Pa-cln3.231,cln3.001,c.461-280_677+382del,Protracted juvenile,5,,CLN3
+Pa-cln3.231,cln3.015,p.(Glu295Lys),Protracted juvenile,5,,CLN3
+Pa-cln3.232,cln3.001,c.461-280_677+382del,juvenile,,Sweden,CLN3
+Pa-cln3.233,cln3.001,c.461-280_677+382del,juvenile,,Sweden,CLN3
+Pa-cln3.234,cln3.001,c.461-280_677+382del,juvenile,,Sweden,CLN3
+Pa-cln3.235,cln3.001,c.461-280_677+382del,juvenile,,Sweden,CLN3
+Pa-cln3.235,,,juvenile,,Sweden,CLN3
+Pa-cln3.236,cln3.001,c.461-280_677+382del,juvenile,,Sweden,CLN3
+Pa-cln3.236,,,juvenile,,Sweden,CLN3
+Pa-cln3.237,cln3.001,c.461-280_677+382del,late infantile,3,USA,CLN3
+Pa-cln3.237,cln3.007,p.(Val142fs),late infantile,3,USA,CLN3
+Pa-cln3.240,cln3.001,c.461-280_677+382del,juvenile,>5,Portugal,CLN3
+Pa-cln3.241,cln3.001,c.461-280_677+382del,juvenile,>5,Portugal,CLN3
+Pa-cln3.242,cln3.001,c.461-280_677+382del,juvenile,>5,Portugal,CLN3
+Pa-cln3.243,cln3.001,c.461-280_677+382del,juvenile,>5,Portugal,CLN3
+Pa-cln3.244,cln3.001,c.461-280_677+382del,juvenile,>5,Portugal,CLN3
+Pa-cln3.245,cln3.001,c.461-280_677+382del,juvenile,>5,Portugal,CLN3
+Pa-cln3.246,cln3.001,c.461-280_677+382del,juvenile,>5,Portugal,CLN3
+Pa-cln3.247,cln3.001,c.461-280_677+382del,juvenile,>5,Portugal,CLN3
+Pa-cln3.248,cln3.001,c.461-280_677+382del,juvenile,>5,Portugal,CLN3
+Pa-cln3.248,,,juvenile,>5,Portugal,CLN3
+Pa-cln3.249,cln3.001,c.461-280_677+382del,juvenile,>5,Portugal,CLN3
+Pa-cln3.249,cln3.049,p.(Gly190fs),juvenile,>5,Portugal,CLN3
+Pa-cln3.250,cln3.001,c.461-280_677+382del,juvenile,>5,Portugal,CLN3
+Pa-cln3.250,cln3.049,p.(Gly190fs),juvenile,>5,Portugal,CLN3
+Pa-cln3.251,cln3.001,c.461-280_677+382del,infantile,0.4,USA,CLN3
+Pa-cln3.251,,,infantile,0.4,USA,CLN3
+Pa-cln3.252,cln3.001,c.461-280_677+382del,juvenile,,USA,CLN3
+Pa-cln3.252,cln3.021,p.(Gln352*),juvenile,,USA,CLN3
+Pa-cln3.253,cln3.001,c.461-280_677+382del,juvenile,5,USA,CLN3
+Pa-cln3.253,cln3.044,p.(Glu17*),juvenile,5,USA,CLN3
+Pa-cln3.254,cln3.001,c.461-280_677+382del,juvenile,6.7,Canada,CLN3
+Pa-cln3.255,cln3.001,c.461-280_677+382del,juvenile,6.7,Canada,CLN3
+Pa-cln3.256,cln3.001,c.461-280_677+382del,juvenile,6.7,Canada,CLN3
+Pa-cln3.257,cln3.029,p.(Tyr199*),Protracted juvenile,6,Lebanon,CLN3
+Pa-cln3.258,cln3.029,p.(Tyr199*),Protracted juvenile,7,Lebanon,CLN3
+Pa-cln3.259,cln3.029,p.(Tyr199*),Protracted juvenile,6,Lebanon,CLN3
+Pa-cln3.260,cln3.029,p.(Tyr199*),Protracted juvenile,6,Lebanon,CLN3
+Pa-cln3.261,cln3.029,p.(Tyr199*),Protracted juvenile,9,Lebanon,CLN3
+Pa-cln3.262,cln3.001,c.461-280_677+382del,juvenile,6,Spain,CLN3
+Pa-cln3.262,cln3.064,p.(Ser125Asn) ,juvenile,6,Spain,CLN3
+Pa-cln3.263,cln3.001,c.461-280_677+382del,juvenile,6,Spain,CLN3
+Pa-cln3.263,cln3.064,p.(Ser125Asn) ,juvenile,6,Spain,CLN3
+Pa-cln3.264,cln3.001,c.461-280_677+382del,juvenile,5,Spain,CLN3
+Pa-cln3.265,cln3.001,c.461-280_677+382del,juvenile,7,Spain,CLN3
+Pa-cln3.266,cln3.025,p.(Ser208Phefs*28),late infantile,2,Spain,CLN3
+Pa-cln3.267,cln3.001,c.461-280_677+382del,late infantile,4,Spain,CLN3
+Pa-cln3.267,,,late infantile,4,Spain,CLN3
+Pa-cln3.268,cln3.001,c.461-280_677+382del,juvenile,5,Spain,CLN3
+Pa-cln3.269,cln3.001,c.461-280_677+382del,juvenile,7,Spain,CLN3
+Pa-cln3.270,cln3.025,p.(Ser208Phefs*28),late infantile,2,Spain,CLN3
+Pa-cln3.270,cln3.063,p.(Gly192Glu),late infantile,2,Spain,CLN3
+Pa-cln3.271,cln3.062,p.(Arg89*),juvenile,8,Spain,CLN3
+Pa-cln3.272,cln3.001,c.461-280_677+382del,juvenile,6,Spain,CLN3
+Pa-cln3.273,cln3.020,p.(Arg334His),juvenile,6,Spain,CLN3
+Pa-cln3.273,cln3.037,p.(Tyr124fs),juvenile,6,Spain,CLN3
+Pa-cln3.274,cln3.001,c.461-280_677+382del,teenage,16,Brazil,CLN3
+Pa-cln3.275,cln3.001,c.461-280_677+382del,adult,19,Argentina,CLN3
+Pa-cln3.276,cln3.001,c.461-280_677+382del,teenage,14,Argentina,CLN3
+Pa-cln3.277,cln3.001,c.461-280_677+382del,adult,22,Argentina,CLN3
+Pa-cln3.277,cln3.019,p.(Arg334Cys),adult,22,Argentina,CLN3
+Pa-cln3.278,cln3.025,p.(Ser208Phefs*28),,,Spain,CLN3
+Pa-cln3.278,cln3.031,p.(Gly187Ala),,,Spain,CLN3
+Pa-cln3.279,cln3.001,c.461-280_677+382del,,,Portugal,CLN3
+Pa-cln3.279,cln3.054,p.(Gly189Arg),,,Portugal,CLN3
+Pa-cln3.280,cln3.036,p.(Trp35*),juvenile,,Germany,CLN3
+Pa-cln3.280,cln3.053,c.678-?_1317+?del,juvenile,,Germany,CLN3
+Pa-cln3.281,cln3.001,c.461-280_677+382del,,,Czech Republic,CLN3
+Pa-cln3.282,cln3.001,c.461-280_677+382del,,,Czech Republic,CLN3
+Pa-cln3.283,cln3.001,c.461-280_677+382del,,,Czech Republic,CLN3
+Pa-cln3.284,cln3.001,c.461-280_677+382del,,,USA,CLN3
+Pa-cln3.285,cln3.001,c.461-280_677+382del,juvenile,,Italy,CLN3
+Pa-cln3.285,cln3.065,p.(Cys134Arg),juvenile,,Italy,CLN3
+Pa-cln3.286,cln3.001,c.461-280_677+382del,juvenile,,Italy,CLN3
+Pa-cln3.286,cln3.032,p.(Glu399*),juvenile,,Italy,CLN3
+Pa-cln3.322,cln3.030,c.126-1G>A,,,Turkey,CLN3
+Pa-cln3.323,cln3.061,p.(Thr80fs),,,Turkey,CLN3
+Pa-cln3.337,cln3.001,c.461-280_677+382del,,,The Netherlands,CLN3
+Pa-cln3.337,cln3.007,p.(Val142fs),,,The Netherlands,CLN3
+Pa-cln3.338,cln3.001,c.461-280_677+382del,,,Belgium,CLN3
+Pa-cln3.338,cln3.007,p.(Val142fs),,,Belgium,CLN3
+Pa-cln3.339,cln3.001,c.461-280_677+382del,,,,CLN3
+Pa-cln3.339,cln3.007,p.(Val142fs),,,,CLN3
+Pa-cln3.340,cln3.001,c.461-280_677+382del,,,The Netherlands,CLN3
+Pa-cln3.340,cln3.021,p.(Gln352*),,,The Netherlands,CLN3
+Pa-cln3.341,cln3.001,c.461-280_677+382del,,,The Netherlands,CLN3
+Pa-cln3.341,cln3.021,p.(Gln352*),,,The Netherlands,CLN3
+Pa-cln3.342,cln3.001,c.461-280_677+382del,,,The Netherlands,CLN3
+Pa-cln3.342,cln3.058,c.1A>C,,,The Netherlands,CLN3
+Pa-cln3.343,cln3.001,c.461-280_677+382del,,,Sweden,CLN3
+Pa-cln3.343,cln3.068,c.954_962+18del,,,Sweden,CLN3
+Pa-cln3.344,cln3.062,p.(Arg89*),,,Norway,CLN3
+Pa-cln3.344,cln3.068,c.954_962+18del,,,Norway,CLN3
+Pa-cln3.345,cln3.001,c.461-280_677+382del,,,The Netherlands,CLN3
+Pa-cln3.345,cln3.019,p.(Arg334Cys),,,The Netherlands,CLN3
+Pa-cln3.346,cln3.007,p.(Val142fs),,,Belgium,CLN3
+Pa-cln3.346,cln3.059,c.125+5G>A,,,Belgium,CLN3
+Pa-cln3.347,cln3.001,c.461-280_677+382del,,,UK,CLN3
+Pa-cln3.347,cln3.060,c.963-1G>T,,,UK,CLN3
+Pa-cln3.348,cln3.001,c.461-280_677+382del,,,Canada,CLN3
+Pa-cln3.349,cln3.001,c.461-280_677+382del,,,Canada,CLN3
+Pa-cln3.350,cln3.001,c.461-280_677+382del,,,Canada,CLN3
+Pa-cln3.350,cln3.048,c.461-1G>C,,,Canada,CLN3
+Pa-cln3.351,cln3.020,p.(Arg334His),,,Canada,CLN3
+Pa-cln3.352,cln3.020,p.(Arg334His),,,Canada,CLN3
+Pa-cln3.353,cln3.067,c.790+3A>C,,,Canada,CLN3
+Pa-cln3.353,,,,,Canada,CLN3
+Pa-cln3.354,,,,,Canada,CLN3
+Pa-cln3.355,,,,,Canada,CLN3
+Pa-cln3.356,,,,,Canada,CLN3
+Pa-cln3.357,cln3.001,c.461-280_677+382del,,,USA,CLN3
+Pa-cln3.357,cln3.007,p.(Val142fs),,,USA,CLN3
+Pa-cln3.358,cln3.001,c.461-280_677+382del,,,France,CLN3
+Pa-cln3.358,cln3.021,p.(Gln352*),,,France,CLN3
+Pa-cln3.359,cln3.030,c.126-1G>A,juvenile,,Turkey,CLN3
+Pa-cln3.360,cln3.001,c.461-280_677+382del,,,Belgium,CLN3
+Pa-cln3.361,cln3.001,c.461-280_677+382del,,,Germany,CLN3
+Pa-cln3.362,cln3.001,c.461-280_677+382del,juvenile,,Ireland,CLN3
+Pa-cln3.363,cln3.001,c.461-280_677+382del,juvenile,,Italy,CLN3
+Pa-cln3.364,cln3.001,c.461-280_677+382del,,,France,CLN3
+Pa-cln3.364,,,,,France,CLN3
+Pa-cln3.365,cln3.001,c.461-280_677+382del,juvenile,,Italy,CLN3
+Pa-cln3.365,,,juvenile,,Italy,CLN3
+Pa-cln3.366,cln3.001,c.461-280_677+382del,,,UK,CLN3
+Pa-cln3.366,,,,,UK,CLN3
+Pa-cln3.367,cln3.001,c.461-280_677+382del,,,USA,CLN3
+Pa-cln3.367,,,,,USA,CLN3
+Pa-cln3.368,cln3.001,c.461-280_677+382del,,,Norway,CLN3
+Pa-cln3.368,,,,,Norway,CLN3
+Pa-cln3.369,cln3.001,c.461-280_677+382del,,,Norway,CLN3
+Pa-cln3.369,,,,,Norway,CLN3
+Pa-cln3.370,cln3.001,c.461-280_677+382del,,,Sweden,CLN3
+Pa-cln3.370,,,,,Sweden,CLN3
+Pa-cln3.375,cln3.052,c.222+5G>C,,,Portugal,CLN3
+Pa-cln3.375,,large incompletely characterised deletion,,,Portugal,CLN3
+Pa-cln3.376,cln3.052,c.222+5G>C,,,Portugal,CLN3
+Pa-cln3.376,,large incompletely characterised deletion,,,Portugal,CLN3
+Pa-cln3.377,cln3.036,p.(Trp35*),,,USA,CLN3
+Pa-cln3.377,,,,,USA,CLN3
+Pa-cln3.378,cln3.045,p.(Gln72*),,,USA,CLN3
+Pa-cln3.378,,,,,USA,CLN3
+Pa-cln3.379,cln3.037,p.(Tyr124fs),,,USA,CLN3
+Pa-cln3.379,,,,,USA,CLN3
+Pa-cln3.380,cln3.006,p.(Arg127fs),,,Russia,CLN3
+Pa-cln3.380,,,,,Russia,CLN3
+Pa-cln3.381,cln3.024,c.461-1G>A,,,USA,CLN3
+Pa-cln3.381,,,,,USA,CLN3
+Pa-cln3.382,cln3.038,p.(Ala158Pro),,,USA,CLN3
+Pa-cln3.382,,,,,USA,CLN3
+Pa-cln3.383,cln3.043,c.533+1G>A,,,USA,CLN3
+Pa-cln3.383,,,,,USA,CLN3
+Pa-cln3.384,cln3.031,p.(Gly187Ala),,,The Netherlands,CLN3
+Pa-cln3.384,,,,,The Netherlands,CLN3
+Pa-cln3.385,cln3.030,c.126-1G>A,,,Italy,CLN3
+Pa-cln3.385,,,,,Italy,CLN3
+Pa-cln3.386,cln3.035,p.(Glu295*),,,USA,CLN3
+Pa-cln3.386,,,,,USA,CLN3
+Pa-cln3.387,cln3.047,c.906+5G>A,,,USA,CLN3
+Pa-cln3.387,,,,,USA,CLN3
+Pa-cln3.388,cln3.040,c.1056+3A>C,,,USA,CLN3
+Pa-cln3.388,cln3.041,p.(Asp416Gly),,,USA,CLN3
+Pa-cln3.389,cln3.022,p.(Thr400*),,,UK,CLN3
+Pa-cln3.389,,,,,UK,CLN3
+Pa-cln3.390,cln3.068,c.954_962+18del,,,The Netherlands,CLN3
+Pa-cln3.390,,,,,The Netherlands,CLN3
+Pa-cln3.391,cln3.051,p.(Leu350fs),,,Russia,CLN3
+Pa-cln3.392,cln3.046,c.222+2T>G,,,Greece,CLN3
+Pa-cln3.392,,,,,Greece,CLN3
+Pa-cln3.393,cln3.055,p.(Ser423*),,,Portugal,CLN3
+Pa-cln3.393,,,,,Portugal,CLN3
+Pa-cln3.394,cln3.030,c.126-1G>A,juvenile,,Turkey,CLN3
+Pa-cln3.394,,,juvenile,,Turkey,CLN3
+Pa-cln3.395,cln3.030,c.126-1G>A,,,Turkey,CLN3
+Pa-cln3.395,,,,,Turkey,CLN3
+Pa-cln3.396,cln3.033,c.294-58G>A ,,,The Netherlands,CLN3
+Pa-cln3.396,,,,,The Netherlands,CLN3
+Pa-cln3.397,cln3.034,c.294-80G>A,,,,CLN3
+Pa-cln3.397,,,,,,CLN3
+Pa-cln3.398,,,,,Turkey,CLN3
+Pa-cln3.399,,,,,Turkey,CLN3
+Pa-cln3.400,,,,,Turkey,CLN3
+Pa-cln3.401,,,,,Turkey,CLN3
+Pa-cln3.402,,,,,Turkey,CLN3
+Pa-cln3.403,cln3.001,c.461-280_677+382del,juvenile,8,Albania,CLN3
+Pa-cln3.404,cln3.001,c.461-280_677+382del,severe 16p deletion syndrome,9,France,CLN3
+Pa-cln3.404,cln3.069,1.7 Mb microdeletion,severe 16p deletion syndrome,9,France,CLN3
+Pa-cln3.405,cln3.070,p.(Lys262*),juvenile,10,,CLN3
+Pa-cln3.406,cln3.071,p.(Gly165Glu),autophagic vacuolar myopathy,,Italy,CLN3
+Pa-cln3.406,,,autophagic vacuolar myopathy,,Italy,CLN3
+Pa-cln3.407,cln3.071,p.(Gly165Glu),autophagic vacuolar myopathy,,Italy,CLN3
+Pa-cln3.407,,,autophagic vacuolar myopathy,,Italy,CLN3
+Pa-cln3.408,cln3.072,p.(Tyr322*),RP,,Italy,CLN3
+Pa-cln3.408,cln3.073,p.(Val290Leu),RP,,Italy,CLN3
+Pa-cln3.409,cln3.072,p.(Tyr322*),RP,,Italy,CLN3
+Pa-cln3.409,cln3.073,p.(Val290Leu),RP,,Italy,CLN3
+Pa-cln3.410,cln3.074,p.(Arg405Trp),RP,,Canada ,CLN3
+Pa-cln3.411,cln3.074,p.(Arg405Trp),RP,,Canada ,CLN3
+Pa-cln3.412,cln3.074,p.(Arg405Trp),RP,,Canada ,CLN3
+Pa-cln3.413,cln3.074,p.(Arg405Trp),RP,,Canada ,CLN3
+Pa-cln3.414,cln3.074,p.(Arg405Trp),RP,,Mexico,CLN3
+Pa-cln3.414,cln3.075,c.125+1G>C,RP,,Mexico,CLN3
+Pa-cln3.415,cln3.074,p.(Arg405Trp),RP,,Mexico,CLN3
+Pa-cln3.415,cln3.075,c.125+1G>C,RP,,Mexico,CLN3
+Pa-cln3.416,cln3.054,p.(Gly189Arg),RP,,Mexico,CLN3
+Pa-cln3.417,cln3.015,p.(Glu295Lys),CRD,,China,CLN3
+Pa-cln3.417,cln3.076,p.(Ser131Arg),CRD,,China,CLN3
+Pa-cln3.418,cln3.015,p.(Glu295Lys),CRD,,China,CLN3
+Pa-cln3.418,cln3.076,p.(Ser131Arg),CRD,,China,CLN3
+Pa-cln3.419,cln3.074,p.(Arg405Trp),RP,,UK,CLN3
+Pa-cln3.420,cln3.001,c.461-280_677+382del,juvenile,6.5,USA,CLN3
+Pa-cln3.420,cln3.078,p.(Leu379Metfs*11),juvenile,6.5,USA,CLN3
+Pa-cln3.421,cln3.079,p.(Gly189Trp),juvenile,,,CLN3
+Pa-cln3.422,cln3.080,p.(Glu273Lysfs*26),juvenile,,,CLN3
+Pa-cln3.423,cln3.080,p.(Glu273Lysfs*26),juvenile,,,CLN3
+Pa-cln3.424,cln3.016,p.(His315fs),juvenile,,Italy,CLN3
+Pa-cln3.424,cln3.081,p.(Ala349_Leu350del) ,juvenile,,Italy,CLN3
+Pa-cln3.425,cln3.074,p.(Arg405Trp),RP,,,CLN3
+Pa-cln3.426,cln3.001,c.461-280_677+382del,RP,,European,CLN3
+Pa-cln3.426,cln3.082,p.(Ile285Val),RP,,European,CLN3
+Pa-cln3.427,cln3.001,c.461-280_677+382del,RP,,European,CLN3
+Pa-cln3.427,cln3.074,p.(Arg405Trp),RP,,European,CLN3
+Pa-cln3.428,cln3.074,p.(Arg405Trp),RP,,,CLN3
+Pa-cln3.429,cln3.001,c.461-280_677+382del,RP,,European,CLN3
+Pa-cln3.429,cln3.084,p.(Val330Ile),RP,,European,CLN3
+Pa-cln3.430,cln3.001,c.461-280_677+382del,RP,,European,CLN3
+Pa-cln3.430,,,RP,,European,CLN3
+Pa-cln3.431,cln3.074,p.(Arg405Trp),RP,,European,CLN3
+Pa-cln3.432,cln3.001,c.461-280_677+382del,late infantile,4,,CLN3
+Pa-cln3.432,cln3.086,c.1056+34C>A,late infantile,4,,CLN3
+Pa-cln3.433,cln3.074,p.(Arg405Trp),IRD,30s,,CLN3
+Pa-cln3.434,cln3.001,c.461-280_677+382del,IRD,20s,,CLN3
+Pa-cln3.434,cln3.084,p.(Val330Ile),IRD,20s,,CLN3
+Pa-cln3.435,cln3.001,c.461-280_677+382del,IRD,40s,,CLN3
+Pa-cln3.435,cln3.087,c.837+5G>A,IRD,40s,,CLN3
+Pa-cln3.436,cln3.074,p.(Arg405Trp),IRD,30s,,CLN3
+Pa-cln3.437,cln3.001,c.461-280_677+382del,IRD,Late teens,,CLN3
+Pa-cln3.437,cln3.088,c.461-3C>G,IRD,Late teens,,CLN3
+Pa-cln3.438,cln3.035,p.(Glu295*),IRD,<10,,CLN3
+Pa-cln3.438,cln3.089,p.(Leu306His),IRD,<10,,CLN3
+Pa-cln3.439,cln3.035,p.(Glu295*),IRD,>13,,CLN3
+Pa-cln3.439,cln3.089,p.(Leu306His),IRD,>13,,CLN3
+Pa-cln3.440,cln3.001,c.461-280_677+382del,IRD,>13,,CLN3
+Pa-cln3.440,cln3.082,p.(Ile285Val),IRD,>13,,CLN3
+Pa-cln3.441,cln3.001,c.461-280_677+382del,IRD,<10,,CLN3
+Pa-cln3.441,cln3.074,p.(Arg405Trp),IRD,<10,,CLN3
+Pa-cln3.442,cln3.001,c.461-280_677+382del,IRD,>13,,CLN3
+Pa-cln3.442,cln3.091,c.375-3C>G,IRD,>13,,CLN3
+Pa-cln3.443,cln3.001,c.461-280_677+382del,juvenile,,USA,CLN3
+Pa-cln3.443,cln3.015,p.(Glu295Lys),juvenile,,USA,CLN3
+Pa-cln3.444,cln3.001,c.461-280_677+382del,juvenile,,USA,CLN3
+Pa-cln3.444,cln3.015,p.(Glu295Lys),juvenile,,USA,CLN3
+Pa-cln3.445,cln3.026,p.(Leu376Argfs*) ,juvenile,6,Iraq,CLN3
+Pa-cln3.446,cln3.026,p.(Leu376Argfs*) ,late infantile,3,Iraq,CLN3
+Pa-cln3.447,cln3.026,p.(Leu376Argfs*) ,juvenile,5,Iraq,CLN3
+Pa-cln3.448,cln3.026,p.(Leu376Argfs*) ,juvenile,,Iraq,CLN3
+Pa-cln3.449,cln3.039,p.(Ser161Leu),IRD,,Japan,CLN3
+Pa-cln3.450,cln3.001,c.461-280_677+382del,protracted juvenile,5,Netherlands,CLN3
+Pa-cln3.450,cln3.058,c.1A>C,protracted juvenile,5,Netherlands,CLN3
+Pa-cln3.451,cln3.001,c.461-280_677+382del,protracted juvenile,7,Netherlands,CLN3
+Pa-cln3.451,cln3.058,c.1A>C,protracted juvenile,7,Netherlands,CLN3
+Pa-cln3.452,cln3.001,c.461-280_677+382del,protracted juvenile,7,Netherlands,CLN3
+Pa-cln3.452,cln3.058,c.1A>C,protracted juvenile,7,Netherlands,CLN3
+Pa-cln3.453,cln3.120,p.(Arg89Gln),RP,,Mexico,CLN3
+Pa-cln3.454,cln3.001,c.461-280_677+382del,IRD,36,Australia,CLN3
+Pa-cln3.454,cln3.098,p.(Ala59Thr),IRD,36,Australia,CLN3
+Pa-cln3.455,cln3.092,p.(Asp61del) ,juvenile,7,Pakistan,CLN3
+Pa-cln3.456,cln3.092,p.(Asp61del) ,juvenile,7,Pakistan,CLN3
+Pa-cln3.457,cln3.093,c.906+6T>G,juvenile,7,China,CLN3
+Pa-cln3.458,cln3.001,c.461-280_677+382del,IRD,,,CLN3
+Pa-cln3.458,cln3.095,p.(Val148del),IRD,,,CLN3
+Pa-cln3.459,cln3.096,p.(Met409Leu),IRD,,,CLN3
+Pa-cln3.460,cln3.040,c.1056+3A>C,IRD,,,CLN3
+Pa-cln3.460,cln3.097,p.(Leu313Pro),IRD,,,CLN3
+Pa-cln3.461,cln3.097,p.(Leu313Pro),IRD,,,CLN3
+Pa-cln3.462,cln3.099,c.461-24_677+27del,visual loss,7.75,,CLN3
+Pa-cln3.462,cln3.100,p.(Ser335Pro),visual loss,7.75,,CLN3
+Pa-cln3.463,cln3.012,p.(Gly187fs) (paternal),retinal dystrophy,5,,CLN3
+Pa-cln3.463,cln3.048,c.461-1G>C (maternal),retinal dystrophy,5,,CLN3
+Pa-cln3.464,cln3.061,p.(Thr80fs),RP,10,Turkey,CLN3
+Pa-cln3.465,cln3.001,с.461-280_677+382del,RP,6,Russia,CLN3
+Pa-cln3.465,cln3.051,p.(Leu350fs),RP,6,Russia,CLN3
+Pa-cln3.466,cln3.001,с.461-280_677+382del,visual loss,,,CLN3
+Pa-cln3.466,cln3.104,p.(Leu384Pro),visual loss,,,CLN3
+Pa-cln3.467,cln3.001,с.461-280_677+382del,visual loss,,,CLN3
+Pa-cln3.467,cln3.086,c.1056+34C>A,visual loss,,,CLN3
+Pa-cln3.468,cln3.001,с.461-280_677+382del,RP,,Italy,CLN3
+Pa-cln3.469,cln3.109,deletion of exons 11-17,visual loss,7,Brazil,CLN3
+Pa-cln3.469,cln3.110,p.(Cys353Ter),visual loss,7,Brazil,CLN3
+Pa-cln3.470,cln3.001,с.461-280_677+382del,unresponsive episodes,,Australia,CLN3
+Pa-cln3.470,cln3.111,p.(Tyr292Cys),unresponsive episodes,,Australia,CLN3
+Pa-cln3.471,cln3.001,с.461-280_677+382del,IRD,,,CLN3
+Pa-cln3.472,cln3.001,с.461-280_677+382del,IRD,,,CLN3
+Pa-cln3.473,cln3.001,с.461-280_677+382del,IRD,,,CLN3
+Pa-cln3.474,cln3.001,с.461-280_677+382del,IRD,,,CLN3
+Pa-cln3.474,cln3.113,p.(Leu102del),IRD,,,CLN3
+Pa-cln3.475,cln3.001,с.461-280_677+382del,RP,,,CLN3
+Pa-cln3.475,cln3.074,p.(Arg405Trp),RP,,,CLN3
+Pa-cln3.476,cln3.105,c.-359_46del,,,(Sweden),CLN3
+Pa-cln3.477,cln3.105,c.-359_46del,,,Sweden,CLN3
+Pa-cln3.478,cln3.106,p.(Ser161*),,6,Saudi Arabia,CLN3
+Pa-cln3.479,cln3.107,p.(Ser226ArgfsTer36),,,Saudi Arabia,CLN3
+Pa-cln3.480,cln3.007,p.(Val142Leufs*39),,6,Egypt,CLN3
+Pa-cln3.481,cln3.108,c.906+2T>A,,11,Egypt,CLN3
+Pa-cln3.482,cln3.029,p.(Tyr199*),CRD,15,,CLN3
+Pa-cln3.482,cln3.059,c.125+5G>A,CRD,15,,CLN3
+Pa-cln3.483,cln3.114,p.(Tyr124=),atypical RP,,,CLN3
+Pa-cln3.484,cln3.019,p.(Arg334Cys),RP,,Jordan,CLN3
+Pa-cln3.485,cln3.001,с.461-280_677+382del,bilateral chorioretinal scarring,,,CLN3
+Pa-cln3.485,wildtype,,bilateral chorioretinal scarring,,,CLN3
+Pa-cln3.486,cln3.001,с.461-280_677+382del,protracted juvenile,6,,CLN3
+Pa-cln3.487,cln3.030,c.128-1G>A,juvenile,6,Turkey,CLN3
+Pa-cln3.488,cln3.117,c.677+883_791-328del,macular dystrophy,5,,CLN3
+Pa-cln3.489,cln3.001,с.461-280_677+382del,RP,66,,CLN3
+Pa-cln3.489,cln3.118,p.(Val390Met),RP,66,,CLN3
+Pa-cln3.495,cln3.001,c.461-280_677+382del,protracted juvenile,5,Poland,CLN3
+Pa-cln3.496,cln3.068,c.954_962+18del,retinal dystrophy,3,Poland,CLN3
+Pa-cln3.496,cln3.001,c.461-280_677+382del,retinal dystrophy,3,Poland,CLN3
+Pa-cln3.497,cln3.068,c.954_962+18del,retinal dystrophy,7,Poland,CLN3
+Pa-cln3.497,cln3.001,c.461-280_677+382del,retinal dystrophy,7,Poland,CLN3
+Pa-cln3.498,cln3.025,p.(Ser208Phefs*28),IRD,,,CLN3
+Pa-cln3.501,,partial deletion,IRD,,,CLN3
+Pa-cln3.501,cln3.115,p.Gly419Glu,IRD,,,CLN3
+Pa-cln3.503,cln3.126,p.Glu295Gly,CRD,16,Haiti,CLN3
+Pa-cln3.504,cln3.098,p.(Ala59Thr),CRD,32,Haiti,CLN3
+Pa-cln3.505,cln3.001,c.461-280_677+382del,CRD,19,Europe,CLN3
+Pa-cln3.505,cln3.074,p.(Arg405Trp),CRD,19,Europe,CLN3
+Pa-cln3.506,cln3.001,c.461-280_677+382del,CRD,17,Europe,CLN3
+Pa-cln3.506,cln3.074,p.(Arg405Trp),CRD,17,Europe,CLN3
+Pa-cln3.507,cln3.001,c.461-280_677+382del,late infantile,5,Brazil,CLN3
+Pa-cln3.508,cln3.116,c.1274_1275delTC,juvenile,8,Iran,CLN3
+Pa-cln3.509,cln3.116,c.1274_1275delTC,juvenile,8,Iran,CLN3
+Pa-cln3.510,cln3.122,p.(Leu313*),Juvenile,7,India,CLN3
+Pa-cln3.511,cln3.016,p.(His315Glnfs *67),,7,,CLN3
+Pa-cln3.511,cln3.123,p.(Cys435Trp),,7,,CLN3
+Pa-cln3.512,cln3.124,p.(Tyr227Cys) ,Juvenile,11,,CLN3
+Pa-cln3.512,cln3.001,c.461-280_677+382del,Juvenile,11,,CLN3
+Pa-cln3.513,cln3.124,p.(Tyr227Cys) ,Juvenile,11,,CLN3
+Pa-cln3.513,cln3.001,c.461-280_677+382del,Juvenile,11,,CLN3
+Pa-cln3.514,cln3.125,p.(Tyr52His),Adult,11,China,CLN3
+Pa-cln3.515,cln3.001,c.461-280_677+382del,Adult,63,,CLN3
+Pa-cln3.515,,wildtype,Adult,63,,CLN3
+Pa-cln3.516,cln3.119,p.(Trp321*),late infantile,3,,CLN3
+Pa-cln3.517,cln3.106,p.(Ser161*)  ,juvenile,6.33,Saudi Arabia,CLN3
+Pa-cln3.518,cln3.001,c.461-280_677+382del,juvenile,6,,CLN3
+Pa-cln3.519,cln3.127,,juvenile,5,Germany,CLN3
+Pa-cln3.519,cln3.128,p.(Thr97Arg),juvenile,5,Germany,CLN3
+Pa-cln3.520,cln3.129,p.(Ser125Glnfs*),late infantile,4,,CLN3
+Pa-cln3.521,cln3.130,p.(Ser171Phe),,,,CLN3
+Pa-cln3.521,cln3.001,c.461-280_677+382del,,,,CLN3
+Pa-cln3.522,cln3.001,c.461-280_677+382del,adult,,Ukraine,CLN3
+Pa-cln3.522,cln3.131,p.(Ala158Asp),adult,,Ukraine,CLN3
+Pa-cln3.523,cln3.132,p.(Ser131fs),retinal disease/adult,29,,CLN3
+Pa-cln3.523,cln3.133,p.(Gln323=),retinal disease/adult,29,,CLN3
+Pa-cln3.524,cln3.002,c.(790+1_791-1)_(1056+1_1057-1)del,,,India,CLN3
+Pa-cln3.525,cln3.013,p.(Ala196Glyfs*40),RP,6,Turkey,CLN3
+Pa-cln3.526,cln3.002,c.(790+1_791-1)_(1056+1_1057-1)del,CLN3,,,CLN3
+Pa-cln3.526,cln3.001,c.461-280_677+382del,CLN3,,,CLN3
+Pa-cln3.527,cln3.012,p.(Gly187fs),CLN3,,,CLN3
+Pa-cln3.527,cln3.001,c.461-280_677+382del,CLN3,,,CLN3
+Pa-cln3.528,cln3.014,p.(Gln211*),CLN3,,,CLN3
+Pa-cln3.528,cln3.001,c.461-280_677+382del,CLN3,,,CLN3
+Pa-cln3.529,cln3.014,p.(Gln211*),CLN3,,,CLN3
+Pa-cln3.529,cln3.001,c.461-280_677+382del,CLN3,,,CLN3
+Pa-cln3.530,cln3.134,c.838-3C>G,juvenile,5,,CLN3
+Pa-cln3.531,cln3.079,p.(Gly189Trp),late infantile,4,,CLN3
+Pa-cln3.531,cln3.135,c.534-2A>G,late infantile,4,,CLN3
+Pa-cln3.532,cln3.134,c.838-3C>G,juvenile,6,,CLN3
+Pa-cln3.533,cln3.136,p.(Cys353Arg),juvenile,5,,CLN3
+Pa-cln3.534,cln3.137,p.(Ser69*),Isolated retinal disease,16,China,CLN3
+Pa-cln3.534,cln3.074,p.(Arg405Trp),Isolated retinal disease,16,China,CLN3
+Pa-cln3.535,cln3.138,p.(Ser185Pro),juvenile,8,China,CLN3
+Pa-cln3.535,cln3.141,c.963-13A>G,juvenile,8,China,CLN3
+Pa-cln3.536,cln3.140,c.962+1G>A,juvenile,6,China,CLN3
+Pa-cln3.536,,Uncharacterised deletion of exons 15 and 16,juvenile,6,China,CLN3
+Pa-cln3.537,cln3.139,p.(Gly280Cys),juvenile,6,China,CLN3
+Pa-cln3.537,cln3.142,p.(Tyr326Leufs*),juvenile,6,China,CLN3
+Pa-cln3.538,cln3.020,p.(Arg334His),juvenile,6,China,CLN3
+Pa-cln3.538,cln3.047,c.906+5G>A,juvenile,6,China,CLN3
+Pa-cln3.539,cln3.020,p.(Arg334His),juvenile,6,China,CLN3
+Pa-cln3.539,cln3.047,c.906+5G>A,juvenile,6,China,CLN3
+Pa-cln3.540,cln3.065,p.(Cys134Arg),juvenile,5,Turkey or Syria,CLN3
+Pa-cln3.540,cln3.036,p.(Trp35*),juvenile,5,Turkey or Syria,CLN3
+Pa-cln3.541,cln3.001,c.461-280_677+382del,adult,19,,CLN3
+Pa-cln3.541,cln3.074,p.(Arg405Trp),adult,19,,CLN3
+Pa-cln3.542,cln3.001,c.461-280_677+382del,juvenile,6,Sweden,CLN3
+Pa-cln3.542,cln3.018,p.(Val330Phe),juvenile,6,Sweden,CLN3
+Pa-cln3.543,cln3.143,c.295-2A>C,juvenile,7,Japan,CLN3
+Pa-cln3.543,cln3.144,p.(His60Thrfs*),juvenile,7,Japan,CLN3
+Disease Phenotypes,,,,,,CLN3
+IRD,,,,,,CLN3
+CRD,,,,,,CLN3
+RP,,,,,,CLN3
+Congenital - around birth;  infantile 0.5-1.5 y; late infantile - 2-4 y; juvenile - 5-10 y; teenage - 10-17; >18 adult,,,,,,CLN3
+"Protracted juvenile - on examination of cases previously described as delayed classic JNCL, these patients have been grouped with others with protracted juvenile disease",,,,,,CLN3
+Further study is needed to more precisely determine the disease phenotypes displayed by patients with homozygous mutations in CLN3,,,,,,CLN3
