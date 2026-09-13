@@ -11,7 +11,7 @@ from PIL import Image
 # ============================================================
 
 st.set_page_config(
-    page_title="BattenAI | Batten Disease Prediction",
+    page_title="Batten-AI | Batten Disease Prediction",
     page_icon="🧬",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -776,7 +776,7 @@ st.markdown(
 <div class="hero">
     <div class="brand-row">
         <div class="brand-mark">🧬</div>
-        <div class="brand-name">BattenAI • Research Prototype</div>
+        <div class="brand-name">Batten-AI</div>
     </div>
     <h1>Batten Disease Prediction</h1>
     <p class="hero-sub">
@@ -1084,6 +1084,7 @@ if analyze:
     # --------------------------------------------------------
 
     batten_detected = batten_probability >= 0.50
+    st.session_state["batten_detected"] = batten_detected
 
     # Store only presentation-safe values in session state.
     st.session_state["assessment_complete"] = True
@@ -1193,8 +1194,9 @@ if analyze:
             unsafe_allow_html=True,
         )
 
+   # ========================================================
     # ========================================================
-    # WHY
+    # WHY DID THE AI MAKE THIS ASSESSMENT?
     # ========================================================
 
     st.markdown(
@@ -1208,20 +1210,42 @@ if analyze:
     )
 
     if batten_detected:
-        explanation = """
-        The system evaluated the uploaded brain MRI and compared its
-        learned visual representation with patterns present in the
-        Batten/non-Batten research training data. The resulting MRI
-        assessment crossed the system's decision threshold for a
-        Batten disease pattern.
+        explanation = f"""
+        <strong>MRI evidence:</strong><br>
+        The MRI model identified a visual pattern that was more consistent
+        with the Batten-associated patterns represented in its research
+        training data. The model's Batten-pattern score was
+        <strong>{batten_probability:.1%}</strong>.<br><br>
+
+        <strong>Clinical context:</strong><br>
+        The clinical model's predicted NCL subtype was
+        <strong>{clinical_prediction}</strong>, with a subtype-classification
+        confidence of <strong>{clinical_confidence:.1%}</strong>.<br><br>
+
+        <strong>How these results are used:</strong><br>
+        The MRI result provides the primary Batten-vs-non-Batten image
+        assessment, while the clinical model provides NCL subtype context.
+        The two outputs are kept separate because the system has not been
+        trained as a calibrated multimodal diagnostic model.
         """
     else:
-        explanation = """
-        The system evaluated the uploaded brain MRI and compared its
-        learned visual representation with patterns present in the
-        Batten/non-Batten research training data. The resulting MRI
-        assessment remained below the system's decision threshold for
-        a Batten disease pattern.
+        explanation = f"""
+        <strong>MRI evidence:</strong><br>
+        The MRI model did not identify a sufficiently strong visual pattern
+        corresponding to the Batten-associated patterns represented in its
+        research training data. The estimated Batten-pattern score was
+        <strong>{batten_probability:.1%}</strong>.<br><br>
+
+        <strong>Clinical context:</strong><br>
+        The clinical model's predicted NCL subtype was
+        <strong>{clinical_prediction}</strong>, with a subtype-classification
+        confidence of <strong>{clinical_confidence:.1%}</strong>.<br><br>
+
+        <strong>How to interpret this result:</strong><br>
+        This is a negative assessment from the current MRI model, not a
+        diagnosis of another neurological condition. If clinical symptoms
+        remain concerning, professional neurological and radiological
+        evaluation should continue.
         """
 
     st.markdown(
@@ -1230,13 +1254,6 @@ if analyze:
             <div class="card-kicker">Assessment reasoning</div>
             <div class="card-title">Image evidence and clinical context</div>
             <div class="card-copy">{explanation}</div>
-            <div class="info-box" style="margin-top:14px;">
-                The patient information is retained as clinical context.
-                The current clinical model predicts NCL subtype/context,
-                while the MRI model provides the Batten-vs-non-Batten
-                image assessment. These outputs are therefore not
-                presented as a single calibrated medical probability.
-            </div>
         </div>
         """,
         unsafe_allow_html=True,
@@ -1266,20 +1283,41 @@ if analyze:
             use_container_width=True,
         )
 
+        attention_html = """
+<div class="info-box" style="margin-top:12px;">
+<strong>How to interpret the AI attention map</strong><br><br>
+
+The highlighted regions represent areas that contributed more
+strongly to the neural network's MRI classification. The model
+learned these visual patterns from the MRI images used during
+research training.<br><br>
+
+<strong>Medical context:</strong><br>
+Neuroimaging studies of neuronal ceroid lipofuscinoses have
+reported abnormalities such as cerebral or cerebellar volume loss,
+thalamic signal changes and white-matter abnormalities. The
+specific pattern can vary according to NCL subtype and disease
+stage.<br><br>
+
+<strong>Important limitation:</strong><br>
+The current Grad-CAM does not perform anatomical segmentation.
+Therefore, the highlighted area should not automatically be
+labelled as the thalamus, cerebellum, cortex or another specific
+anatomical structure. It represents model evidence rather than a
+confirmed lesion.<br><br>
+
+<strong>Clinical interpretation:</strong><br>
+A radiologist or neurologist must determine whether the highlighted
+region corresponds to a genuine structural or signal abnormality
+and whether that abnormality is compatible with the patient's
+clinical presentation.
+</div>
+"""
+
         st.markdown(
-            """
-            <div class="info-box" style="margin-top:12px;">
-                <strong>How to read the attention map</strong><br>
-                The highlighted areas show regions that had greater
-                influence on the neural network's classification.
-                They are model-evidence areas, not confirmed lesions,
-                and should not be interpreted as proof of a specific
-                anatomical abnormality.
-            </div>
-            """,
+            attention_html,
             unsafe_allow_html=True,
         )
-
     else:
         st.info(
             "The AI attention visualization could not be generated for this MRI."
@@ -1340,52 +1378,97 @@ if analyze:
             unsafe_allow_html=True,
         )
 
-    # ========================================================
-    # NUTRITION
-    # ========================================================
+
+# ============================================================
+# NUTRITION & DAILY CARE
+# ============================================================
+
+batten_detected = st.session_state.get("batten_detected", False)
+
+st.markdown(
+    """
+<div class="section-head">
+    <div class="section-icon">+</div>
+    <div class="section-title">Nutrition & Daily Care</div>
+</div>
+""",
+    unsafe_allow_html=True,
+)
+
+if batten_detected:
 
     st.markdown(
         """
-        <div class="section-head">
-            <div class="section-icon">+</div>
-            <div class="section-title">Nutrition & Daily Care</div>
-        </div>
-        """,
+<div class="info-box">
+<strong>Supportive care when a Batten-associated MRI pattern is detected</strong><br><br>
+
+<strong>1. Nutrition and hydration</strong><br>
+Maintain adequate calorie, fluid and nutrient intake. Nutritional
+status and growth should be monitored as part of ongoing clinical care.<br><br>
+
+<strong>2. Swallowing and feeding</strong><br>
+If there is difficulty swallowing, choking, coughing during meals,
+weight loss or recurrent respiratory problems, a clinical swallowing
+and feeding assessment should be considered.<br><br>
+
+<strong>3. Food consistency</strong><br>
+When swallowing difficulty is present, food and liquid consistency
+should be individualized by the appropriate clinical team to reduce
+aspiration risk.<br><br>
+
+<strong>4. When oral intake becomes insufficient</strong><br>
+If nutritional requirements cannot be met safely by mouth, or
+aspiration risk becomes significant, the treating team may discuss
+enteral feeding options with the family.<br><br>
+
+<strong>5. Seizure-specific diets</strong><br>
+There is no universal Batten disease diet. A specialized dietary
+therapy for seizure control should only be considered under the
+supervision of the treating neurologist and an appropriately
+qualified dietitian.
+</div>
+""",
         unsafe_allow_html=True,
     )
+
+else:
 
     st.markdown(
         """
-        <div class="info-box">
-            There is no single universal Batten disease diet.
-            Nutrition and hydration should be individualized according
-            to age, nutritional status, swallowing ability and medical
-            requirements. Medical assessment is particularly important
-            when there is difficulty swallowing, choking, recurrent
-            respiratory problems, poor weight gain or difficulty meeting
-            nutritional requirements. Any specialized dietary approach
-            intended to assist seizure control should only be considered
-            under appropriate clinical supervision.
-        </div>
-        """,
+<div class="info-box">
+<strong>General nutrition and well-being</strong><br><br>
+
+The current MRI assessment did not identify a strong Batten-associated
+pattern. Therefore, Batten-specific dietary recommendations are not
+generated from this result.<br><br>
+
+Maintain adequate hydration and balanced nutrition appropriate to
+the individual's age and nutritional requirements.<br><br>
+
+If neurological symptoms, swallowing problems, unexplained weight
+loss or other concerning symptoms persist, appropriate clinical
+evaluation should still be continued.
+</div>
+""",
         unsafe_allow_html=True,
     )
 
-    # ========================================================
-    # DISCLAIMER
-    # ========================================================
 
-    st.divider()
+# ============================================================
+# DISCLAIMER
+# ============================================================
 
-    st.markdown(
-        """
-        <div class="info-box">
-            <strong>Research prototype</strong><br>
-            This system is intended for academic and research
-            demonstration. Its AI assessment does not constitute a
-            medical diagnosis and should not replace evaluation by
-            qualified healthcare professionals.
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
+st.divider()
+
+st.markdown(
+    """
+<div class="info-box">
+    <strong>Research prototype</strong><br>
+    The AI assessment does not constitute a
+    medical diagnosis and should not replace evaluation by
+    qualified healthcare professionals.
+</div>
+""",
+    unsafe_allow_html=True,
+)
+

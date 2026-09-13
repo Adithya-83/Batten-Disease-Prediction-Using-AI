@@ -1,0 +1,6 @@
+MRI Model: EfficientNet-B0 with transfer learning and fine-tuning
+Validation samples: 25
+Accuracy: 88%
+Precision: 85.71%
+Recall: 75%
+F1-score: 80%
